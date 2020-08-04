@@ -303,8 +303,8 @@
 	margin-bottom: 16px;
 }
 
-.navigation__item:nth-child(2) .services__text,
-.navigation__item:nth-child(5) .services__text {
+.services__item:nth-child(2) .services__text,
+.services__item:nth-child(5) .services__text {
 	padding-bottom: 18px;
 }
 
