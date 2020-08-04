@@ -127,7 +127,7 @@
 					<img class="services__image" src="img/index-icons/icon-2.png">
 					<div class="services__circle"></div>
 					<div class="services__text">
-						Общестроительные работы
+						Общестроительные <br> работы
 					</div>
 				</div>
 
@@ -151,7 +151,7 @@
 					<img class="services__image" src="img/index-icons/icon-5.png">
 					<div class="services__circle"></div>
 					<div class="services__text">
-						Установка окон и дверей
+						Установка окон и <br> дверей
 					</div>
 				</div>
 
