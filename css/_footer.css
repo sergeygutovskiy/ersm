@@ -1,0 +1,96 @@
+.footer {
+	background-color: #008DD2;
+	margin-top: 52px;
+	overflow: hidden;
+	/*padding-bottom: 16px;*/
+	/*padding: 16px 0;*/
+}
+
+.footer__content {
+	display: flex;
+}
+
+.footer__logo-container {
+	/*display: flex;*/
+	/*align-items: flex-end;*/
+	width: 246px;
+	position: relative;
+
+	margin-bottom: 16px;
+}
+
+.footer__logo {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	object-fit: contain;
+	object-position: bottom;
+	/*width: 240px;*/
+	/*object-fit: contain;*/
+
+	filter: brightness(0) invert(1);
+}
+
+.footer__links {
+	margin-top: 40px;
+	padding-left: 52px;	
+	display: flex;
+}
+
+.footer__link {
+	font-weight: 400;
+	color: white;
+} 
+
+.footer__link:not(:last-child) {
+	margin-right: 52px;
+}
+
+.footer__info {
+	margin-top: 40px;
+	margin-left: auto;
+	color: white;
+	text-align: right;
+
+	margin-bottom: 16px;
+}
+
+.footer__info i {
+	margin-right: 16px;
+}
+
+.footer__mail {
+	margin-top: 8px;
+	font-weight: 400;
+}
+
+.footer__company-name {
+	margin-top: 24px;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.footer__kirill {
+	color: white;
+	position: absolute;
+	bottom: -5px;
+	left: 0;
+	margin-left: 52px;
+}
+
+.footer__kirill a {
+	font-weight: 400;
+	font-size: 17px;
+}
+
+.footer__kirill div {
+	font-size: 12px;
+	letter-spacing: 0.11em;
+	position: relative;
+	top: -5px;
+}
+
+.footer__center {
+	position: relative;
+	margin-bottom: 16px;
+}
