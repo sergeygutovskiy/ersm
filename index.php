@@ -110,77 +110,79 @@
 		});
 	</script>
 
-	<section class="main-container">
-		<div class="main-title">Услуги</div>
+	<section class="services-container">
+		<div class="main-container">
+			<div class="main-title">Услуги</div>
 
-		<div class="services">
-			<div class="services__item">
-				<img class="services__image" src="img/index-icons/icon-1.png">
-				<div class="services__circle"></div>
-				<div class="services__text">
-					Косметический ремонт <br> парадных
+			<div class="services">
+				<div class="services__item">
+					<img class="services__image" src="img/index-icons/icon-1.png">
+					<div class="services__circle"></div>
+					<div class="services__text">
+						Косметический ремонт <br> парадных
+					</div>
 				</div>
-			</div>
 
-			<div class="services__item">
-				<img class="services__image" src="img/index-icons/icon-2.png">
-				<div class="services__circle"></div>
-				<div class="services__text">
-					Общестроительные работы
+				<div class="services__item">
+					<img class="services__image" src="img/index-icons/icon-2.png">
+					<div class="services__circle"></div>
+					<div class="services__text">
+						Общестроительные работы
+					</div>
 				</div>
-			</div>
 
-			<div class="services__item">
-				<img class="services__image" src="img/index-icons/icon-3.png">
-				<div class="services__circle"></div>
-				<div class="services__text">
-					Благоустройство <br> придомовой территории
+				<div class="services__item">
+					<img class="services__image" src="img/index-icons/icon-3.png">
+					<div class="services__circle"></div>
+					<div class="services__text">
+						Благоустройство <br> придомовой территории
+					</div>
 				</div>
-			</div>
 
-			<div class="services__item">
-				<img class="services__image" src="img/index-icons/icon-4.png">
-				<div class="services__circle"></div>
-				<div class="services__text">
-					Установка окон и дверей
+				<div class="services__item">
+					<img class="services__image" src="img/index-icons/icon-4.png">
+					<div class="services__circle"></div>
+					<div class="services__text">
+						Проектирование и <br> согласование проектов
+					</div>
 				</div>
-			</div>
 
-			<div class="services__item">
-				<img class="services__image" src="img/index-icons/icon-5.png">
-				<div class="services__circle"></div>
-				<div class="services__text">
-					Ремонт общедомовых <br> инженерных систем
+				<div class="services__item">
+					<img class="services__image" src="img/index-icons/icon-5.png">
+					<div class="services__circle"></div>
+					<div class="services__text">
+						Установка окон и дверей
+					</div>
 				</div>
-			</div>
 
-			<div class="services__item">
-				<img class="services__image" src="img/index-icons/icon-6.png">
-				<div class="services__circle"></div>
-				<div class="services__text">
-					Изготовление <br> металлоконструкций
+				<div class="services__item">
+					<img class="services__image" src="img/index-icons/icon-6.png">
+					<div class="services__circle"></div>
+					<div class="services__text">
+						Ремонт общедомовых <br> инженерных систем
+					</div>
 				</div>
-			</div>
 
-			<div class="services__item">
-				<img class="services__image" src="img/index-icons/icon-7.png">
-				<div class="services__circle"></div>
-				<div class="services__text">
-					Косметический ремонт парадных
+				<div class="services__item">
+					<img class="services__image" src="img/index-icons/icon-7.png">
+					<div class="services__circle"></div>
+					<div class="services__text">
+						Изготовление <br> металлоконструкций
+					</div>
 				</div>
-			</div>
 
-			<div class="services__item">
-				<img class="services__image" src="img/index-icons/icon-8.png">
-				<div class="services__circle"></div>
-				<div class="services__text">
-					Ремонт фасадов и многоквартирных домов
+				<div class="services__item">
+					<img class="services__image" src="img/index-icons/icon-8.png">
+					<div class="services__circle"></div>
+					<div class="services__text">
+						Ремонт фасадов и <br> многоквартирных домов
+					</div>
 				</div>
 			</div>
 		</div>
 	</section>
 
-	<section class="main-container">
+	<section class="main-container start-work-container">
 		<div class="main-title">Как начать работать с нами?</div>
 
 		<div class="start-work">
