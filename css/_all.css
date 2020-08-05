@@ -22,6 +22,12 @@
 	font-weight: 700;
 }
 
+:root {
+	--primary-color: #2d2254;
+	--secondary--color: #fdd01a;
+	--text-color: #c5bbec;
+}
+
 body {
 	margin: 0;
 	
