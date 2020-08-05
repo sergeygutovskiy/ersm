@@ -101,40 +101,48 @@
 						<span>Стоимость</span>
 					</li>
 					<li class="prices-list__item">
-						<span>Демонтаж пристенного поручня (перила до 6 п.м)</span>
-						<span>от 800 р. за шт</span>
+						<span>Окраска поверхности пола с подготовкой</span>
+						<span>от 100 р. за м2</span>
 					</li>
 					<li class="prices-list__item">
-						<span>Монтаж пристенного поручня (перила до 6 п.м)</span>
-						<span>от 1600 р. за шт</span>
+						<span>Окраска фриза по периметру стен (высота до 250мм)</span>
+						<span>от 90 р. за м.п.</span>
 					</li>
 					<li class="prices-list__item">
-						<span>Демонтаж металлического ограждения</span>
-						<span>от 220 р. за м.п.</span>
+						<span>Окраска торца лестничного пролета (с подготовкой)</span>
+						<span>от 110 р. за м.п.</span>
 					</li>
 					<li class="prices-list__item">
-						<span>Монтаж металлического ограждения из нержавейки</span>
-						<span>от 580 р. за м.п.</span>
+						<span>Окраска металлических ограждений (без поручней)</span>
+						<span>от 80 р. за м.п.</span>
 					</li>
 					<li class="prices-list__item">
-						<span>Монтаж пластикового поручня</span>
-						<span>от 320 р. за м.п.</span>
+						<span>Окраска металлических труб</span>
+						<span>от 75 р. за м.п.</span>
 					</li>
 					<li class="prices-list__item">
-						<span>Монтаж пластикового поручня</span>
-						<span>от 320 р. за м.п.</span>
+						<span>Окраска ранее окрашенных масляной краской (стены,труба мусоропровода)</span>
+						<span>от 70 р. за м2</span>
 					</li>
 					<li class="prices-list__item">
-						<span>Монтаж пластикового поручня</span>
-						<span>от 320 р. за м.п.</span>
+						<span>Окраска ранее окрашенных масляной краской (клапан мусоропровода, эл.щит, радиаторы)</span>
+						<span>от 270 р. за шт</span>
 					</li>
 					<li class="prices-list__item">
-						<span>Монтаж пластикового поручня</span>
-						<span>от 320 р. за м.п.</span>
+						<span>Окраска двери с 1 стороны 2100х1300мм</span>
+						<span>от 420 р. за шт</span>
 					</li>
 					<li class="prices-list__item">
-						<span>Монтаж пластикового поручня</span>
-						<span>от 320 р. за м.п.</span>
+						<span>Окраска двери с 2 сторон 2100х1300мм</span>
+						<span>от 570 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Окраска двери с 1 стороны 2000х900мм</span>
+						<span>от 270 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Окраска двери с 2 сторон 2000х900мм</span>
+						<span>от 430 р. за шт</span>
 					</li>
 				</ul>	
 				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
@@ -229,6 +237,237 @@
 				</ul>	
 				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
+
+			<div class="main-title">Потолок</div>
+			<div class="prices-list-container">
+				<ul class="prices-list">
+					<li class="prices-list__item">
+						<span>Тип работ</span>
+						<span>Стоимость</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Расшивка трещин</span>
+						<span>от 110 р. за м.п.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Демонтаж непрочно держащегося покрытия (старой краски) в/д краска (потолок)</span>
+						<span>от 55 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Демонтаж намела (потолок)</span>
+						<span>от 110 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Грунтование (грунт глубокого проникновения) потолка</span>
+						<span>от 30 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Локальный ремонт (заделка трещин штукатурными составами, шпатлевание, грунтование) потолка</span>
+						<span>от 320 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Оштукатуривание потолка по плоскости 1 слой</span>
+						<span>от 200 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Шпатлевание сплошное</span>
+						<span>от 180 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Окраска в/д 1 слой с использованием краскопульта (черные лестницы)</span>
+						<span>от 65 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Окраска в/д 1 слой (обновить окраску)</span>
+						<span>от 70 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Окраска в/д в 2 слоя</span>
+						<span>от 80 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Окраска в/д в 2 слоя (высота более 3м)</span>
+						<span>от 90 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Обработка антисептик (от плесени)</span>
+						<span>от 320 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Демонтаж старого светильника</span>
+						<span>от 90 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Монтаж светодиодного светильника с датчиком звука</span>
+						<span>от 380 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Прокладка силового кабеля для монтажа светильника</span>
+						<span>от 120 р. за м.п.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Монтаж подвесного потолка Армстронг</span>
+						<span>от 390 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Монтаж подвесного потолка Грильято</span>
+						<span>от 610 р. за м2</span>
+					</li>
+				</ul>	
+				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+
+			<div class="main-title">Стены</div>
+			<div class="prices-list-container">
+				<ul class="prices-list">
+					<li class="prices-list__item">
+						<span>Тип работ</span>
+						<span>Стоимость</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Грунтование стен (грунт глубокого проникновения) Текс</span>
+						<span>от 32 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Грунтование стен (грунт c кварцевым наполнителем) Cerplast, Ceresit</span>
+						<span>от 40 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Грунтование (пропитка под Миксан + Грунт Церпласт)</span>
+						<span>от 65 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Локальный ремонт стен (заделка трещин штукатурными составами, шпатлевание, грунтование)</span>
+						<span>от 250 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Оштукатуривание стен по плоскости</span>
+						<span>от 230 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Оштукатуривание по маякам</span>
+						<span>от 250 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Шпатлевание оштукатуренной поверхности на 2 слоя</span>
+						<span>от 140 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Окраска стен в/д в 1 слой с использованием краскопульта</span>
+						<span>от 55 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Окраска стен в/д в 1 слой (обновить окраску)</span>
+						<span>от 55 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Окраска стен в/д в 2 слоя</span>
+						<span>от 75 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Окраска стен в/д в 2 слоя (высота более 3м)</span>
+						<span>от 80 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Окраска стен лаком (по штукатурке Миксан)</span>
+						<span>от 65 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Обработка антисептик (от плесени)</span>
+						<span>от 310 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Установка малярных уголков (под штукатурку)</span>
+						<span>от 30 р. за м.п.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Установка металлического уголка (для защиты углов)</span>
+						<span>от 160 р. за м.п.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Монтаж короба из гипсокартона с направляющими</span>
+						<span>от 530 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Демонтаж кабель-каналов</span>
+						<span>от 90 р. за м.п.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Установка кабель-канала ширина (сбор проводов)</span>
+						<span>от 230 р. за м.п.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Подготовка поверхности стен под мозаичную штукатурку Миксан (нанесение пропитки,нанесение грунт Cerplast)</span>
+						<span>от 100 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Нанесение мозаичной штукатурки Миксан</span>
+						<span>от 610 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Расшивка трещин стен</span>
+						<span>от 90 р. за м.п.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Демонтаж намела стен</span>
+						<span>от 90 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Мойка поверхности фасада с использованием аппарата высокого давления</span>
+						<span>от 50 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Удаление высолов</span>
+						<span>от 500 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Грунтование</span>
+						<span>от 25 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Грунтование (грунт укрепляющий)</span>
+						<span>от 40 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Нанесение стеклотканевой сетки на фасадный клей</span>
+						<span>от 160 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Шпатлевание в один слой с ошкуриванием</span>
+						<span>от 160 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Промежуточное грунтование</span>
+						<span>от 40 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Шпатлевание на второй слой с ошкуриванием</span>
+						<span>от 160 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Грунтование перед окраской</span>
+						<span>от 40 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Окраска поверхности фасада на 1 слой (3 цвета)</span>
+						<span>от 130 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Окраска фасадной краской в два слоя, два цвета</span>
+						<span>от 150 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Гидрофобизация фасада</span>
+						<span>от 80 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Устройство штукатурного слоя</span>
+						<span>от 260 р. за м2</span>
+					</li>
+				</ul>	
+				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+			
 		</section>
 	</main>
 
