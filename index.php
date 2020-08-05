@@ -4,7 +4,7 @@
 	<title>Главная — ЕРСМ</title>
 
 	<?php require "templates/_header.php"; ?>
-
+	
 	<link rel="stylesheet" type="text/css" href="css/pages/index.css">
 
 </head>
@@ -234,7 +234,7 @@
 			</div>
 		</div>
 	</section>
-
+	<?php require "templates/callback.php"; ?>
 	<?php require "templates/_footer.php"; ?>
 
 </body>

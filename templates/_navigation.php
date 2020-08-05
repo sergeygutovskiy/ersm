@@ -13,7 +13,7 @@
 
 	<section class="navigation__right-container">
 		<ul class="navigation__list">
-			<li class="navigation__item"> <a href="/">Услуги</a> </li>
+			<li class="navigation__item"> <a href="services.php">Услуги</a> </li>
 			<li class="navigation__item"> <a href="/">Работы</a> </li>
 			<li class="navigation__item"> <a href="/">О нас</a> </li>
 			<li class="navigation__item"> <a href="/">Стоимость</a> </li>

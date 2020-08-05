@@ -1,0 +1,91 @@
+
+:root {
+	--primary-color: #2d2254;
+	--secondary--color: #fdd01a;
+	--text-color: #c5bbec;
+}
+
+
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	outline: none;
+}
+
+body {
+	font-family: 'Rubik', sans-serif;
+	
+	
+	font-size: 18px;
+	
+	font-weight: 300;
+	
+}
+.main-contacts{
+	width: calc(100% - 166px);
+	
+
+
+padding-bottom: 40px;
+margin:auto;
+background: #FAF7F8;
+box-shadow: 4px 4px 10px 2px rgba(75, 81, 91, 0.1), -4px -4px 10px 2px rgba(75, 81, 91, 0.1);
+border-radius: 7px;
+margin-top: 40px;
+max-width: 1440px;
+margin-bottom: 40px;
+
+}
+.down-contacts{
+	display: flex;
+	margin-top: 40px;
+	justify-content: space-between;
+	color: #292929;
+	line-height: 24px;
+	padding-right: 40px;
+padding-left: 40px;
+}
+.left-down{
+	width:45%;
+}
+.left-down span, .right-down span{
+	color: #008DD2;
+	font-weight: 400;
+}
+.left-down p, .right-down p{
+	padding-bottom: 20px;
+}
+.right-down{
+	width: 45%;
+}
+.down-contacts a{
+	text-decoration: none;
+	color: #292929;
+}
+.map-contacts{
+	border-radius: 8px 8px 0px 0px;
+}
+@media screen and (max-width: 825px){
+
+
+	.main-contacts{
+		width: calc(100% - 32px);
+		flex-direction: column-reverse;
+		display: flex;
+		
+		padding-bottom: 0px;
+		
+	}
+	.down-contacts{
+		flex-direction: column;
+		padding: 0 16px;
+	}
+	.left-down, .right-down {
+		width: 100%
+	}
+	.map-contacts{
+	border-radius: 0px 0px 8px 8px;
+}
+}
