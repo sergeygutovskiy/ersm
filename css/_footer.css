@@ -8,6 +8,7 @@
 
 .footer__content {
 	display: flex;
+	max-width: none;
 }
 
 .footer__logo-container {
@@ -57,8 +58,12 @@
 	margin-bottom: 16px;
 }
 
-.footer__info i {
-	margin-right: 16px;
+.footer__info div:first-child i {
+	margin-right: 18px;
+}
+
+.footer__info div:nth-child(2) i {
+	margin-right: 8px;
 }
 
 .footer__mail {
@@ -125,6 +130,11 @@
 		margin-left: 32px;
 	}
 
+	.footer__info div:first-child i,
+	.footer__info div:nth-child(2) i {
+		margin-right: 8px;
+	}
+
 	.footer__company-name {
 		flex-basis: 100%;
 		margin-bottom: 24px;
@@ -157,6 +167,7 @@
 	.footer__kirill {
 		bottom: calc(16px - 3px);
 		margin-left: 0;
+		left: 0;
 	}
 
 	.footer__content {

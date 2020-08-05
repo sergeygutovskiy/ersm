@@ -69,7 +69,7 @@
 			</div>
 		</section>
 
-		<section class="main-container">
+		<section>
 			<div class="header__title">
 				Ремонт парадных в Москве <br> и Санкт-Петербурге
 			</div>
@@ -111,7 +111,7 @@
 	</script>
 
 	<section class="services-container">
-		<div class="main-container">
+		<div class="main-container main-limited">
 			<div class="main-title">Услуги</div>
 
 			<div class="services">
@@ -182,7 +182,7 @@
 		</div>
 	</section>
 
-	<section class="main-container start-work-container">
+	<section class="main-container start-work-container main-limited">
 		<div class="main-title">Как начать работать с нами?</div>
 
 		<div class="start-work">
