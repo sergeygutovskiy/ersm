@@ -1,20 +1,8 @@
-
 :root {
 	--primary-color: #2d2254;
 	--secondary--color: #fdd01a;
 	--text-color: #c5bbec;
 }
-
-
-
-* {
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
-	outline: none;
-}
-
-
  
 .main-services{
 	display: grid;

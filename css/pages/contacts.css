@@ -5,36 +5,15 @@
 	--text-color: #c5bbec;
 }
 
-
-
-* {
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
-	outline: none;
-}
-
-body {
-	font-family: 'Rubik', sans-serif;
-	
-	
-	font-size: 18px;
-	
-	font-weight: 300;
-	
-}
 .main-contacts{
-	width: calc(100% - 166px);
 	
 
 
 padding-bottom: 40px;
-margin:auto;
 background: #FAF7F8;
 box-shadow: 4px 4px 10px 2px rgba(75, 81, 91, 0.1), -4px -4px 10px 2px rgba(75, 81, 91, 0.1);
 border-radius: 7px;
 margin-top: 40px;
-max-width: 1440px;
 margin-bottom: 40px;
 
 }
@@ -71,7 +50,6 @@ padding-left: 40px;
 
 
 	.main-contacts{
-		width: calc(100% - 32px);
 		flex-direction: column-reverse;
 		display: flex;
 		

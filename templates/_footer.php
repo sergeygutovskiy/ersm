@@ -1,17 +1,17 @@
 <footer class="footer">
 	<div class="main-container footer__content">
 		<section class="footer__logo-container">
-			<img src="img/logo.png" class="footer__logo">
+			<img src="/img/logo.png" class="footer__logo">
 		</section>
 
 		<div class="footer__container-for-mobile">
 			<section class="footer__center">
 				<ul class="footer__links">
-					<li class="footer__link"><a href="/">Услуги</a></li>
+					<li class="footer__link"><a href="/services">Услуги</a></li>
 					<li class="footer__link"><a href="/">Проекты</a></li>
 					<li class="footer__link"><a href="/">О нас</a></li>
 					<li class="footer__link"><a href="/">Стоимость</a></li>
-					<li class="footer__link"><a href="/">Контакты</a></li>
+					<li class="footer__link"><a href="/contacts">Контакты</a></li>
 				</ul>
 				<section class="footer__kirill">
 					<a href="http://terexov.agency">terexov.agency</a>

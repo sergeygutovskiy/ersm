@@ -1,6 +1,6 @@
 <nav class="navigation">
 	<section class="navigation__left-container">
-		<img src="img/logo.png" class="navigation__logo">
+		<img src="/img/logo.png" class="navigation__logo">
 		
 		<div class="navigation__hamburger-container">
 			<div class="navigation__hamburger">
@@ -13,11 +13,11 @@
 
 	<section class="navigation__right-container">
 		<ul class="navigation__list">
-			<li class="navigation__item"> <a href="services.php">Услуги</a> </li>
+			<li class="navigation__item"> <a href="/services">Услуги</a> </li>
 			<li class="navigation__item"> <a href="/">Работы</a> </li>
 			<li class="navigation__item"> <a href="/">О нас</a> </li>
 			<li class="navigation__item"> <a href="/">Стоимость</a> </li>
-			<li class="navigation__item"> <a href="/">Контакты</a> </li>
+			<li class="navigation__item"> <a href="/contacts">Контакты</a> </li>
 		</ul>
 	</section>
 </nav>

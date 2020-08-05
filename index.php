@@ -5,7 +5,8 @@
 
 	<?php require "templates/_header.php"; ?>
 	
-	<link rel="stylesheet" type="text/css" href="css/pages/index.css">
+	<link rel="stylesheet" type="text/css" href="/css/pages/index.css">
+	<link rel="stylesheet" type="text/css" href="/css/_header.css">
 
 </head>
 <body>
@@ -110,6 +111,7 @@
 		});
 	</script>
 
+	<!-- услуги -->
 	<section class="services-container">
 		<div class="main-container main-limited">
 			<div class="main-title">Услуги</div>
@@ -182,6 +184,7 @@
 		</div>
 	</section>
 
+	<!-- как начать -->
 	<section class="main-container start-work-container main-limited">
 		<div class="main-title">Как начать работать с нами?</div>
 
@@ -204,8 +207,8 @@
 			<div class="start-work__item">
 				<div class="start-work__number">3</div>
 				<div class="start-work__text">
-					Заключите <span class="main-text-blue"> договор </span>
-					, оформление которого занимает 5 минут
+					Заключите <span class="main-text-blue"> договор</span>,
+					оформление которого занимает 5 минут
 				</div>
 			</div>
 
@@ -234,7 +237,8 @@
 			</div>
 		</div>
 	</section>
-	<?php require "templates/callback.php"; ?>
+
+	<?php require "templates/_callback.php"; ?>
 	<?php require "templates/_footer.php"; ?>
 
 </body>

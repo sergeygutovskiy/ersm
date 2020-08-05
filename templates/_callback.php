@@ -1,23 +1,3 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-  <meta name="viewport" content="width=device-width, user-scalable=no">
-  
-  <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700&display=swap" rel="stylesheet">
-  <title></title>
-
-  <!-- jquery -->
-  
-  <!-- font-awesome -->
-  
-  <!-- css styles -->
-  <link rel="stylesheet" type="text/css" href="css/callback.css">
-  <link rel="stylesheet" type="text/css" href="css/_main.css">
-</head>
-
-<body>
-
- 
 <div class="main-form">
   <div class="left-form">
     <h3>Заполните форму, и мы вам перезвоним</h3>
@@ -40,8 +20,3 @@
   </div>
 
 </div>
-
-  
-
-</body>
-</html>
