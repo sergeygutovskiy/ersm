@@ -1,9 +1,4 @@
-:root {
-	--primary-color: #2d2254;
-	--secondary--color: #fdd01a;
-	--text-color: #c5bbec;
-}
- 
+
 .main-services{
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
@@ -17,7 +12,7 @@ main h3{
 font-size: 20px;
 line-height: 28px;
 letter-spacing: 0.06em;
-
+margin: 0;
 color: #008DD2;
 
 }
