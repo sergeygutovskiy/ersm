@@ -81,7 +81,7 @@ body {
 	justify-content: space-between;
 }
 
-.prices-list__item:hover {
+.prices-list__item:not(:first-child):hover {
 	cursor: pointer;
 	border-left: solid 4px #FF993F;
 	background-color: #FBFAFB;
@@ -159,6 +159,7 @@ body {
 	.prices-list__item {
 		font-size: 14px;
 		padding: 8px;
+		border-left: none;
 	}
 
 	.prices-list__item span:first-child {
