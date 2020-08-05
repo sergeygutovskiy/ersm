@@ -16,7 +16,7 @@
 			<li class="navigation__item"> <a href="/services">Услуги</a> </li>
 			<li class="navigation__item"> <a href="/">Работы</a> </li>
 			<li class="navigation__item"> <a href="/">О нас</a> </li>
-			<li class="navigation__item"> <a href="/">Стоимость</a> </li>
+			<li class="navigation__item"> <a href="/prices">Стоимость</a> </li>
 			<li class="navigation__item"> <a href="/contacts">Контакты</a> </li>
 		</ul>
 	</section>

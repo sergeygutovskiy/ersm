@@ -10,7 +10,7 @@
 					<li class="footer__link"><a href="/services">Услуги</a></li>
 					<li class="footer__link"><a href="/">Проекты</a></li>
 					<li class="footer__link"><a href="/">О нас</a></li>
-					<li class="footer__link"><a href="/">Стоимость</a></li>
+					<li class="footer__link"><a href="/prices">Стоимость</a></li>
 					<li class="footer__link"><a href="/contacts">Контакты</a></li>
 				</ul>
 				<section class="footer__kirill">
