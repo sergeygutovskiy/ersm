@@ -141,10 +141,15 @@
 @media screen and (max-width: 380px)
 {
 	.services__text { 
+		font-size: 12px;
+	}
+}
+@media screen and (max-width: 320px)
+{
+	.services__text { 
 		font-size: 10px;
 	}
 }
-
 .start-work-container {
 	/*max-width: 1600px;*/
 	/*margin: auto;*/

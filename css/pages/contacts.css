@@ -52,6 +52,10 @@ padding-left: 40px;
 	.down-contacts{
 		flex-direction: column;
 		padding: 0 16px;
+		margin-top: 0px;
+	}
+	.left-down p .left-down p{
+		padding-bottom: 10px;
 	}
 	.left-down, .right-down {
 		width: 100%
