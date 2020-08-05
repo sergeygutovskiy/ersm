@@ -1,7 +1,7 @@
 <header class="header header--common-page">
 	<div class="header-background"></div>
 
-	<?php require "ersm/templates/_navigation.php"; ?>	
+	<?php require "templates/_navigation.php"; ?>	
 
 	<div class="header-shadow"></div>
 
