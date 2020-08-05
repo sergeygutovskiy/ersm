@@ -2,6 +2,10 @@ body {
 	background-color: #FAF7F8;
 }
 
+.main-title {
+	font-size: 24px;
+}
+
 .prices-links {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
@@ -156,6 +160,10 @@ body {
 
 @media screen and (max-width: 425px)
 {
+	.main-title {
+		font-size: 20px;
+	}
+
 	.prices-list__item {
 		font-size: 14px;
 		padding: 8px;

@@ -1,9 +1,3 @@
-:root {
-	--primary-color: #2d2254;
-	--secondary--color: #fdd01a;
-	--text-color: #c5bbec;
-}
- 
 .main-services{
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
