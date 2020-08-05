@@ -23,7 +23,7 @@
 
 	<main class="main-container main-limited">
 		<div class="main-title prices-links-title" onclick="toogleCategories(this);">
-			Категории
+			Марьяночка
 			<i class="fas fa-chevron-up"></i>
 		</div>
 		<section class="prices-links">
