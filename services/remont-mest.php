@@ -27,7 +27,9 @@
 
 	<main class="main-container main-limited">
 		
-		<img class="service-image" src="/img/index-backgrounds/background-1.jpg">
+		<section class="service-image-contanier">
+			<img class="service-image" src="/img/index-backgrounds/background-1.jpg">
+		</section>
 
 		<section class="service-quote">
 			<div class="service-quote__image-container">
