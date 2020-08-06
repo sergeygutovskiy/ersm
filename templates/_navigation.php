@@ -1,6 +1,6 @@
 <nav class="navigation">
 	<section class="navigation__left-container">
-		<img src="/img/logo.png" class="navigation__logo">
+		<a href="/"><img src="/img/logo.png" class="navigation__logo"></a>
 		
 		<div class="navigation__hamburger-container">
 			<div class="navigation__hamburger">
