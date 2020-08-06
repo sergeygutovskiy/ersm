@@ -76,6 +76,11 @@ main ul li:not(:first-child) {
 
 @media screen and (max-width: 425px)
 {
+
+	.service-image-contanier::after {
+		padding-bottom: 33.3%;
+	}
+
 	.service-quote {
 		margin-top: 16px;
 	}
