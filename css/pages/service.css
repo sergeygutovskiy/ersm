@@ -79,4 +79,10 @@ main ul li:not(:first-child) {
 	.service-quote__text {
 		padding: 16px;
 	}
+	.quote{
+		margin-left: 0px;
+	}
+	.main-quote img{
+		display: none;
+	}
 }

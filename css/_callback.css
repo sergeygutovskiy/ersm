@@ -90,8 +90,9 @@ color: #008DD2;
 		
 	}
 	.main-form h3{
-		font-size: 28px;
-		margin-bottom: 16px;
+		font-size: 24px;
+		margin-bottom: 12px;
+		margin-top: 0px;
 	}
 	.br-form{
 		display: block;
