@@ -1,4 +1,4 @@
-<div class="main-form">
+<div class="main-form main-container">
   <div class="left-form">
     <h3>Заполните форму, и мы вам перезвоним</h3>
     <p>Заполните специальную форму на бесплатный вызов мастера или позвоните по телефонам <br class="br-form"><a href="" class="main-text-blue">+7 (962) 684-76-15</a> 
