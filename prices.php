@@ -23,7 +23,7 @@
 
 	<main class="main-container main-limited">
 		<div class="main-title prices-links-title" onclick="toogleCategories(this);">
-			Марьяночка
+			Категории
 			<i class="fas fa-chevron-up"></i>
 		</div>
 		<section class="prices-links">
@@ -121,7 +121,7 @@
 						<span>от 75 р. за м.п.</span>
 					</li>
 					<li class="prices-list__item">
-						<span>Окраска ранее окрашенных масляной краской (стены,труба мусоропровода)</span>
+						<span>Окраска ранее окрашенных масляной краской (стены, труба мусоропровода)</span>
 						<span>от 70 р. за м2</span>
 					</li>
 					<li class="prices-list__item">
@@ -397,7 +397,7 @@
 						<span>от 230 р. за м.п.</span>
 					</li>
 					<li class="prices-list__item">
-						<span>Подготовка поверхности стен под мозаичную штукатурку Миксан (нанесение пропитки,нанесение грунт Cerplast)</span>
+						<span>Подготовка поверхности стен под мозаичную штукатурку Миксан (нанесение пропитки, нанесение грунта Cerplast)</span>
 						<span>от 100 р. за м2</span>
 					</li>
 					<li class="prices-list__item">
@@ -468,6 +468,528 @@
 				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 			
+			<div class="main-title">Плитка пол на первом этаже</div>
+			<div class="prices-list-container">
+				<ul class="prices-list">
+					<li class="prices-list__item">
+						<span>Тип работ</span>
+						<span>Стоимость</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Демонтаж плитки (сбор в мешки)</span>
+						<span>от 100 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Гидроизоляция напольного покрытия</span>
+						<span>от 230 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Выравнивание поверхности пола с использованием ровнителя до 30мм</span>
+						<span>от 250 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Подготовка основания под укладку керамогранита (грунтование)</span>
+						<span>от 60 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Укладка керамогранита (варианты: 300х300мм; 420х420мм)</span>
+						<span>от 520 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Укладка керамогранита на ступени (ступень + подступенок) варианты: 300х300мм; 420х420мм; 200х600мм</span>
+						<span>от 650 р. за м.п.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Установка металлических уголков с резиновой вставкой на ступени</span>
+						<span>от 180 р. за м.п.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Затирание швов</span>
+						<span>от 60 р. за м2</span>
+					</li>
+				</ul>	
+				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+
+			<div class="main-title">Укладка клинкерной плитки</div>
+			<div class="prices-list-container">
+				<ul class="prices-list">
+					<li class="prices-list__item">
+						<span>Тип работ</span>
+						<span>Стоимость</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Укладка клинкерной плитки на ступени</span>
+						<span>от 1400 р. за м.п.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Укладка клинкерной плитки на ровные участки</span>
+						<span>от 1250 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Укладка клинкерной плитки Фриз по форме ступеней</span>
+						<span>от 550 р. за м.п.</span>
+					</li>
+				</ul>	
+				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+
+			<div class="main-title">Укладка плитки на стены</div>
+			<div class="prices-list-container">
+				<ul class="prices-list">
+					<li class="prices-list__item">
+						<span>Тип работ</span>
+						<span>Стоимость</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Укладка керамогранита на стены 600х600мм</span>
+						<span>от 750 р. за м.п.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Демонтаж плитки со стен (сбор в мешки)</span>
+						<span>от 90 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Подготовка основания стен под укладку керамогранита (грунтование)</span>
+						<span>от 60 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Укладка керамогранита на стены (300х300мм; 420х420мм)</span>
+						<span>от 600 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Укладка керамогранита фриз на стены</span>
+						<span>от 210 р. за м.п.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Затирание швов (стена)</span>
+						<span>от 60 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Устройство приямка (под коврик резиновый)</span>
+						<span>от 1400 р. за шт</span>
+					</li>
+				</ul>	
+				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+
+			<div class="main-title">Швы</div>
+			<div class="prices-list-container">
+				<ul class="prices-list">
+					<li class="prices-list__item">
+						<span>Тип работ</span>
+						<span>Стоимость</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Расчистка межпанельного шва</span>
+						<span>от 160 р. за м.п.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Расчистка межпанельного шва</span>
+						<span>от 100 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Герметизация межпанельного шва</span>
+						<span>от 130 р. за м.п.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Утепление межпанельного шва вилотермом</span>
+						<span>от 50 р. за м.п.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Оштукатуривание межпанельного шва с предварительным грунтованием</span>
+						<span>от 310 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Ошкуривание поверхности</span>
+						<span>от 90 р. за м2</span>
+					</li>
+				</ul>	
+				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+
+			<div class="main-title">Мягкая кровля</div>
+			<div class="prices-list-container">
+				<ul class="prices-list">
+					<li class="prices-list__item">
+						<span>Тип работ</span>
+						<span>Стоимость</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Демонтаж мягкого кровельного покрытия</span>
+						<span>от 130 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Обработка битумным праймером</span>
+						<span>от 30 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Монтаж мягкой кровли в два слоя</span>
+						<span>от 450 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Ремонт стяжки</span>
+						<span>от 410 р. за м2</span>
+					</li>
+				</ul>	
+				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+
+			<div class="main-title">Фальцевая кровля</div>
+			<div class="prices-list-container">
+				<ul class="prices-list">
+					<li class="prices-list__item">
+						<span>Тип работ</span>
+						<span>Стоимость</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Демонтаж стальной кровли</span>
+						<span>от 130 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Ремонт фальцевой простой кровли</span>
+						<span>от 600 р. за м2</span>
+					</li>
+				</ul>	
+				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+
+			<div class="main-title">Наплавляемая кровля</div>
+			<div class="prices-list-container">
+				<ul class="prices-list">
+					<li class="prices-list__item">
+						<span>Тип работ</span>
+						<span>Стоимость</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Монтаж наплавляемой кровли</span>
+						<span>от 150 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Демонтаж наплавляемой кровли</span>
+						<span>от 120 р. за м2</span>
+					</li>
+				</ul>	
+				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+
+			<div class="main-title">Обогрев кровли и водостоков</div>
+			<div class="prices-list-container">
+				<ul class="prices-list">
+					<li class="prices-list__item">
+						<span>Тип работ</span>
+						<span>Стоимость</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Монтаж греющего кабеля</span>
+						<span>от 170 р. за м.п.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Подключение к электрощитку</span>
+						<span>от 10000 р. за услугу</span>
+					</li>
+				</ul>	
+				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+
+			<div class="main-title">Гидроизоляция кровли</div>
+			<div class="prices-list-container">
+				<ul class="prices-list">
+					<li class="prices-list__item">
+						<span>Тип работ</span>
+						<span>Стоимость</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Монтаж водосточной системы</span>
+						<span>от 500 р. за м.п.</span>
+					</li>
+				</ul>	
+				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+
+			<div class="main-title">Двери</div>
+			<div class="prices-list-container">
+				<ul class="prices-list">
+					<li class="prices-list__item">
+						<span>Тип работ</span>
+						<span>Стоимость</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Дверь металлическая одностворчатая 2100*900</span>
+						<span>от 9500 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Дверь ПВХ одностворчатая 2100*900</span>
+						<span>от 9500 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Дверь двустворчатая 2100*1300</span>
+						<span>от 15500 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Дверь ПВХ двустворчатая 2100*1300</span>
+						<span>от 21500 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Люки противопожарные 800*800</span>
+						<span>от 7000 р. за шт</span>
+					</li>
+				</ul>	
+				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+
+			<div class="main-title">Фурнитура</div>
+			<div class="prices-list-container">
+				<ul class="prices-list">
+					<li class="prices-list__item">
+						<span>Тип работ</span>
+						<span>Стоимость</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Задвижка врезная торцевая перекидная</span>
+						<span>от 200 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Ручка-штанга Apecs хром 300мм</span>
+						<span>от 1200 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Ручка-скоба приварная (окраска в цвет двери) 200мм</span>
+						<span>от 250 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Ручка раздельная Apecs H-0204-INOX (для тех и ПП)</span>
+						<span>от 400 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Ручка раздельная Polidore</span>
+						<span>от 240 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Комплект для ПП: ручка черная на планке, замок 2000ZN, цилиндровый механизм</span>
+						<span>от 800 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Замок 2000ZN (защелка с ригелем под цилиндровый механизм)</span>
+						<span>от 500 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Гардиан 301 замок-защелка без ригеля (с нажимной раздельной ручкой)</span>
+						<span>от 330 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Доводчик Notedo 90 (серебро, коричневый, белый)</span>
+						<span>от 1200 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Доводчик DORMA с функцией фиксации двери до 90 градусов (серебро, коричневый, белый)</span>
+						<span>от 3500 р. за шт</span>
+					</li>
+				</ul>	
+				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+
+			<div class="main-title">Окна</div>
+			<div class="prices-list-container">
+				<ul class="prices-list">
+					<li class="prices-list__item">
+						<span>Тип работ</span>
+						<span>Стоимость</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Врезка стекла/стеклопакета в полотно</span>
+						<span>от 500 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Стекло армированное 6 мм</span>
+						<span>от 1500 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Стеклопакет однокамерный</span>
+						<span>от 700 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Металлическая фигурная решетка</span>
+						<span>от 1800 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Полоса защитная из нержавеющей полированной стали (высота до 300мм, с одной стороны)</span>
+						<span>от 1300 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Накладка на порог из из нержавеющей полированной стали (для плоского порога)</span>
+						<span>от 250 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Сьемный порог на 4-х задв.</span>
+						<span>от 1800 р.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Автоотпускной порог 2100х900 - 2100х1301</span>
+						<span>от 2400 р. за шт</span>
+					</li>
+				</ul>	
+				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+
+			<div class="main-title">Монтажные/демонтажные работы</div>
+			<div class="prices-list-container">
+				<ul class="prices-list">
+					<li class="prices-list__item">
+						<span>Тип работ</span>
+						<span>Стоимость</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Демонтаж деревянной двери</span>
+						<span>от 210 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Демонтаж металлической двери</span>
+						<span>от 400 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Монтаж одностворчатой двери (или люка)</span>
+						<span>от 1800 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Монтаж двустворчатой двери</span>
+						<span>от 2200 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Материал для монтажа</span>
+						<span>от 450 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Подъем к месту монтажа</span>
+						<span>от 160 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Сбор мусора на улице (за 1 старую дверь с коробкой)</span>
+						<span>от 200 р. за шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Отделка монтажного шва (штукатурка по пене, черновая отделка)</span>
+						<span>от 370 р. за м.п.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Доставка по городу (1 рейс - до 10 дверей)</span>
+						<span>от 3000 р. за шт</span>
+					</li>
+				</ul>	
+				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+
+			<div class="main-title">Асфальтирование</div>
+			<div class="prices-list-container">
+				<ul class="prices-list">
+					<li class="prices-list__item">
+						<span>Тип работ</span>
+						<span>Стоимость</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Ремонт/асфальтирование отмостки с материалом</span>
+						<span>от 1500 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Минимальный заказ ремонта/асфальтирования отмостки</span>
+						<span>от 45000 р.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Устройство парковки (минимальный заказ)</span>
+						<span>от 45000 р. за 1 шт</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Гидроизоляция отмостки</span>
+						<span>от 90 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Минимальный заказ работ по асфальтированию</span>
+						<span>от 45000 р. за заказ</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Устройство асфальтобетонного покрытия 1 слой (h = 5см), S = от 60м2 с материалом</span>
+						<span>от 1300 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Устройство асфальтобетонного покрытия (разборка, вывозка, щебень h = 5см-10см, асфальт 1 слой h = 5см) с материалом</span>
+						<span>от 2600 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Вывоз мусора</span>
+						<span>от 11000 р. за 100 м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Устройство бордюра Б.Р. 100*30*15</span>
+						<span>от 90 р. за м.п.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Устройство бордюра Б.Р. 100*20*8</span>
+						<span>от 600 р. за м.п.</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Устройство покрытия из асфальтной крошки h = 7см с материалом</span>
+						<span>от 560 р. за м2</span>
+					</li>
+				</ul>	
+				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
+			</div>		
+
+			<div class="main-title">Разметка</div>
+			<div class="prices-list-container">
+				<ul class="prices-list">
+					<li class="prices-list__item">
+						<span>Тип работ</span>
+						<span>Стоимость</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Покраска машиномест (разметка)</span>
+						<span>от 450 р. за место</span>
+					</li>
+				</ul>	
+				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+
+			<div class="main-title">Тротуарная плитка</div>
+			<div class="prices-list-container">
+				<ul class="prices-list">
+					<li class="prices-list__item">
+						<span>Тип работ</span>
+						<span>Стоимость</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Устройство покрытия из тротуарной плитки</span>
+						<span>от 1800 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Устройство покрытия из резиновой крошки</span>
+						<span>от 45000 р. за шт</span>
+					</li>
+				</ul>	
+				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+
+			<div class="main-title">Газоны</div>
+			<div class="prices-list-container">
+				<ul class="prices-list">
+					<li class="prices-list__item">
+						<span>Тип работ</span>
+						<span>Стоимость</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Устройство газонов (расчет индивидуально от объёма)</span>
+						<span>от 400 р. за м2</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Устройство экопарковки (мин. стоимость за работы)</span>
+						<span>от 50000 р. за парковку</span>
+					</li>
+					<li class="prices-list__item">
+						<span>Устройство автомобильного основания</span>
+						<span>от 450 р. за м2</span>
+					</li>
+				</ul>	
+				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
 		</section>
 	</main>
 
