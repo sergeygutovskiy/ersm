@@ -62,6 +62,8 @@ body {
 
 .main-title + .prices-list-container .prices-list .prices-list__item:first-child {
 	color: #686868;
+	background-color: #FEFDFE;
+	border-left: solid 4px #FEFDFE;
 	padding: 12px 20px;
 }
 
