@@ -1,5 +1,6 @@
 main p, main ul {
 	margin: 32px 0;
+	max-width: 950px;
 }
 
 main p {
