@@ -5,8 +5,8 @@
 
 	<?php require "templates/_header.php"; ?>
 
-	<link rel="stylesheet" type="text/css" href="/css/_header.css">
 	<link rel="stylesheet" type="text/css" href="/css/pages/404.css">
+	<link rel="stylesheet" type="text/css" href="/css/_header.css">
 
 </head>
 
@@ -65,14 +65,14 @@
 			</section>
 		</header>
 
-		<script>
-			let vh = window.innerHeight * 0.01;
-			document.documentElement.style.setProperty('--vh', `${vh}px`);
-		</script>
-
 		<!-- footer -->
 		<?php require "templates/_footer.php"; ?>
 
 	</div>
+
+	<script>
+		let vh = window.innerHeight * 0.01;
+		document.documentElement.style.setProperty('--vh', `${vh}px`);
+	</script>
 </body>
 </html>

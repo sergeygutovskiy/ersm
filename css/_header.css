@@ -62,7 +62,7 @@
 	left: -22px;
 
 	color: #008DD2;
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 400;
 }
 
@@ -71,7 +71,7 @@
 }
 
 .header-info__item time, .header-info__item a {
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 400;	
 }
 
