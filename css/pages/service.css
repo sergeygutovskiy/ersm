@@ -38,6 +38,7 @@ main span{
 }
 .main-text ul{
 	padding-left: 19px; 
+	list-style: disc;
 }
 @media screen and (max-width:980px){
 	main{
