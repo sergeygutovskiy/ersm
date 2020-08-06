@@ -12,7 +12,7 @@ margin-bottom: 40px;
 }
 .down-contacts{
 	display: flex;
-	margin-top: 40px;
+	margin-top: 24px;
 	justify-content: space-between;
 	color: #292929;
 	line-height: 24px;
@@ -27,7 +27,7 @@ padding-left: 40px;
 	font-weight: 400;
 }
 .left-down p, .right-down p{
-	padding-bottom: 20px;
+	padding-bottom: 8px;
 }
 .right-down{
 	width: 45%;
