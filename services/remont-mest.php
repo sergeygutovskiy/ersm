@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Ремонт мест общего использования — ЕРСМ</title>
+	<title>Ремонт мест общего пользования — ЕРСМ</title>
 
 	<?php require "../templates/_header.php"; ?>
 
