@@ -256,7 +256,7 @@
 
 @media screen and (max-height: 570px) and (max-width: 425px)
 {	
-	.header__title { bottom: 64px; top: auto; }
+	.header__title { /*bottom: 64px;*/ top: auto; }
 
-	.header__button-container { bottom: 64px; top: auto; }
+	.header__button-container { /*bottom: 64px;*/ top: auto; }
 }
