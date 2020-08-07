@@ -15,7 +15,7 @@
 	<!-- page header starts here -->
 	<?php require "../templates/_page_header-start.php"; ?>
 		
-		<img class="header-background-image" src="/img/index-backgrounds/background-1.jpg">
+		<img class="header-background-image" src="/img/page-headers/services/navesy-i-kozyrki.jpeg">
 		<div class="header__title header__title--common-page ">
 			Установка навесов и козырьков над входом
 		</div>
