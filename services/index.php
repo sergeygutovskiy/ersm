@@ -25,75 +25,71 @@
 			<div class="block-services">
 				<h3>Благоустройство<br>придомовой территории</h3>
 				<ul>
-					<li><a href="vorota-i-kalitki.php">Ворота и калитки</a></li>
-					<li><a href="remont-mest.php">Ремонт мест общего пользования</a></li>
-					<li><a href="">Устройство газонов и клумб</a></li>
-					<li><a href="">Скамейки, урны, цветочницы, ограничители движения</a></li>
-					<li><a href="">Установка заборов</a></li>
-					<li><a href="">Установка навесов и козырьков над входом</a></li>
-					<li><a href="">Укладка тротуарной плитки</a></li>
-					<li><a href="">Установка лавочек и урн</a></li>
-					<li><a href="">Установка газонных ограждений</a></li>
-					<li><a href="">Площадки для мусорных баков</a></li>
+					<li><a href="vorota-i-kalitki">Ворота и калитки</a></li>
+					<li><a href="remont-mest">Ремонт мест общего пользования</a></li>
+					<li><a href="gazony-i-klumby">Устройство газонов и клумб</a></li>
+					<li><a href="skamejki-i-urny">Скамейки, урны, цветочницы, ограничители движения</a></li>
+					<li><a href="ustanovka-zaborov">Установка заборов</a></li>
+					<li><a href="navesy-i-kozyrki">Установка навесов и козырьков над входом</a></li>
+					<li><a href="trotuarnaya-plitka">Укладка тротуарной плитки</a></li>
+					<li><a href="ustanovka-lavochek-i-urn">Установка лавочек и урн</a></li>
+					<li><a href="gazonnye-ograzhdeniya">Установка газонных ограждений</a></li>
+					<li><a href="musornye-baki">Площадки для мусорных баков</a></li>
 				</ul>
 			</div>
 
 			<div class="block-services">
 				<h3>Косметический ремонт <br> парадных</h3>
 				<ul>
-					<li><a href="">Износостойкий ремонт первых этажей</a></li>
-					<li><a href="">Штукатурно-малярные работы</a></li>
-					<li><a href="">Укладка керамогранита</a></li>
-					<li><a href="">Декоративная штукатурка</a></li>
-					<li><a href="">Замена и установка почтовых ящиков</a></li>
-					<li><a href="">Монтаж подвесных потолков</a></li>
-					<li><a href="">Ремонт лестничного марша</a></li>
-					<li><a href="">Облицовка ступеней</a></li>
+					<li><a href="remont-pervyh-etazhej">Износостойкий ремонт первых этажей</a></li>
+					<li><a href="malyarnye-raboty">Штукатурно-малярные работы</a></li>
+					<li><a href="ukladka-keramogranita">Укладка керамогранита</a></li>
+					<li><a href="dekorativnaya-shtukaturka">Декоративная штукатурка</a></li>
+					<li><a href="pochtovye-yashiki">Замена и установка почтовых ящиков</a></li>
+					<li><a href="podvesnye-potolki">Монтаж подвесных потолков</a></li>
+					<li><a href="lestnichnyj-marsh">Ремонт лестничного марша</a></li>
+					<li><a href="oblicovka-stupenej">Облицовка ступеней</a></li>
 				</ul>
 			</div>
 
 			<div class="block-services">
 				<h3>Замена окон и <br>дверей</h3>
 				<ul>
-					<li><a href="">Металлопластиковые окна</a></li>
-					<li><a href="">Двери алюминиевые</a></li>
-					<li><a href="">Металлопластиковые двери</a></li>
-					<li><a href="">Противопожарные и технические двери</a></li>
-					<li><a href="">Замена и установка почтовых ящиков</a></li>
-					<li><a href="">Монтаж подвесных потолков</a></li>
-					<li><a href="">Ремонт лестничного марша</a></li>
-					<li><a href="">Облицовка ступеней</a></li>
+					<li><a href="metalloplastikovye-okna">Металлопластиковые окна</a></li>
+					<li><a href="dveri-alyuminievye">Двери алюминиевые</a></li>
+					<li><a href="metalloplastikovye-dveri">Металлопластиковые двери</a></li>
+					<li><a href="protivopozharnye-dveri">Противопожарные и технические двери</a></li>
 				</ul>
 			</div>
 
 			<div class="block-services">
 				<h3>Ремонт фасадов</h3>
 				<ul>
-					<li><a href="">Ремонт отмостки фундамента</a></li>
-					<li><a href="">Ремонт и облицовка крылец подъездов</a></li>
-					<li><a href="">Тротуары и дорожки из асфальта и плитки</a></li>
-					<li><a href="">Фасадные работы</a></li>
+					<li><a href="otmostka-fundamenta">Ремонт отмостки фундамента</a></li>
+					<li><a href="krylco-poduezda">Ремонт и облицовка крылец подъездов</a></li>
+					<li><a href="trotuary-i-dorozhki">Тротуары и дорожки из асфальта и плитки</a></li>
+					<li><a href="fasadnye-raboty">Фасадные работы</a></li>
 				</ul>
 			</div>
 
 			<div class="block-services">
 				<h3>Прочее</h3>
 				<ul>
-					<li><a href="">Утепление и гидроизоляция подвалов и чердаков</a></li>
-					<li><a href="">Ремонт и мойка мусоропровода</a></li>
-					<li><a href="">Монтаж систем видеонаблюдения</a></li>
-					<li><a href="">Кровельные работы</a></li>
-					<li><a href="">Установка пандуса</a></li>
-					<li><a href="">Выезд специалистов на аварийные работы</a></li>
+					<li><a href="podvaly-i-cherdaki">Утепление и гидроизоляция подвалов и чердаков</a></li>
+					<li><a href="remont-musoroprovoda">Ремонт и мойка мусоропровода</a></li>
+					<li><a href="videonablyudenie">Монтаж систем видеонаблюдения</a></li>
+					<li><a href="krovelnye-raboty">Кровельные работы</a></li>
+					<li><a href="ustanovka-pandusa">Установка пандуса</a></li>
+					<li><a href="avarijnye-raboty">Выезд специалистов на аварийные работы</a></li>
 				</ul>
 			</div>
 
 			<div class="block-services">
-				<a href=""><h3>Проектирование<br> и согласование проектов</h3></a>
+				<a href="proektirovanie"><h3>Проектирование<br> и согласование проектов</h3></a>
 				
-				<a href=""><p><h3>Ремонт общедомовых<br> инженерных систем</h3></p></a>
+				<a href="inzhenernye-sistemy"><p><h3>Ремонт общедомовых<br> инженерных систем</h3></p></a>
 				
-				<a href=""><p><h3>Изготовление <br> металлоконструкций</h3></p></a>
+				<a href="izgotovlenie-metallokonstrukij"><p><h3>Изготовление <br> металлоконструкций</h3></p></a>
 			</div>
 		</div>
 	</main>
