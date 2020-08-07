@@ -14,7 +14,7 @@
 
 	<!-- page header -->
 	<?php require "../templates/_page_header-start.php"; ?>
-	<img class="header-background-image" src="/img/index-backgrounds/background-3.jpg">
+	<img class="header-background-image" src="/img/page-headers/header-services.jpg">
 	<div class="header__title header__title--common-page ">
 		Услуги
 	</div>

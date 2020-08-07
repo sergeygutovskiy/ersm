@@ -14,7 +14,7 @@
 
 	<!-- page header -->
 	<?php require "templates/_page_header-start.php"; ?>
-	<img class="header-background-image" src="/img/index-backgrounds/background-2.jpg">
+	<img class="header-background-image" src="/img/page-headers/header-contacts.jpg">
 	<div class="header__title header__title--common-page ">
 		Контакты
 	</div>
