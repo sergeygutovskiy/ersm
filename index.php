@@ -107,6 +107,54 @@
 		document.documentElement.style.setProperty('--vh', `${vh}px`);
 	</script>
 
+	<!-- последние работы -->
+	<!-- 
+	<section class="last-works main-container main-limited">
+		<article>
+			
+		</article>
+
+		<article class="last-works__item">
+			<div class="last-works__image-container">
+				<div class="last-works__image-background"></div>
+				<img class="last-works__image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+			<div class="last-works__text">
+				<span class="last-works__title">Ремонт парадной</span>
+				<span class="last-works__location">
+					г. Колпино, ул. Красная, д. 10 и 12
+				</span>
+			</div>
+		</article>
+
+		<article class="last-works__item">
+			<div class="last-works__image-container">
+				<div class="last-works__image-background"></div>
+				<img class="last-works__image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+			<div class="last-works__text">
+				<span class="last-works__title">Ремонт парадной</span>
+				<span class="last-works__location">
+					г. Санкт-Петербург, ул. Морской Пехоты, д. 8, корп. 1
+				</span>
+			</div>
+		</article>
+
+		<article class="last-works__item">
+			<div class="last-works__image-container">
+				<div class="last-works__image-background"></div>
+				<img class="last-works__image" src="/img/index-backgrounds/background-3.jpg">
+			</div>
+			<div class="last-works__text">
+				<span class="last-works__title">Ремонт парадной</span>
+				<span class="last-works__location">
+					г. Санкт-Петербург, ул. Ленсовета, д. 88
+				</span>
+			</div>
+		</article>
+	</section>
+ 	-->
+
 	<!-- услуги -->
 	<section class="services-container">
 		<div class="main-container main-limited">

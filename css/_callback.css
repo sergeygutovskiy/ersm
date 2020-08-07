@@ -13,6 +13,7 @@ margin-top: 64px;
 display: flex;
 justify-content: space-between;
 color: #292929;
+max-width: 1600px;
 }
 .left-form{
 	max-width: 50%;
