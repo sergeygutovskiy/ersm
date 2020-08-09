@@ -15,7 +15,7 @@
 	<!-- page header starts here -->
 	<?php require "../../templates/_page_header-start.php"; ?>
 		
-		<img class="header-background-image" src="/img/page-headers/services/iznosostojkij-remont-2.jpg">
+		<img class="header-background-image" src="/img/page-headers/services/iznosostojkij-remont.jpg">
 		<div class="header__title header__title--common-page ">
 			Косметический ремонт парадных
 		</div>

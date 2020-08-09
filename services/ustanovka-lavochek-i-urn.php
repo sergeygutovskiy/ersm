@@ -16,7 +16,7 @@
 	<!-- page header starts here -->
 	<?php require "../templates/_page_header-start.php"; ?>
 		
-		<img class="header-background-image" src="/img/page-headers/services/ustanovka-lavochek-i-urn.jpg">
+		<img class="header-background-image" src="/img/page-headers/services/skamejki-i-urny.jpg">
 		<div class="header__title">
 			Установка лавочек и урн
 		</div>

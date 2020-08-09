@@ -16,7 +16,7 @@
 	<!-- page header starts here -->
 	<?php require "../templates/_page_header-start.php"; ?>
 		
-		<img class="header-background-image" src="/img/page-headers/services/gazony-i-klumby.jpg">
+		<img class="header-background-image" src="/img/page-headers/services/skamejki-i-urny.jpg">
 		<div class="header__title">
 			Устройство газонов и клумб
 		</div>
