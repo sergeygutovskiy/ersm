@@ -30,6 +30,7 @@
 		<section class="services-group">
 			
 			<article class="services-group__item size-2">
+				<div class="size__helper size__helper-2"></div>
 				<img class="services-group__image" src="/img/index-backgrounds/background-2.jpg">
 				<div class="services-group__background"></div>
 				<div class="services-group__title">
@@ -45,7 +46,7 @@
 				</div>
 			</article>
 
-			<article class="services-group__item">
+			<article class="services-group__item size-3">
 				<img class="services-group__image" src="/img/index-backgrounds/background-2.jpg">
 				<div class="services-group__background"></div>
 				<div class="services-group__title">
@@ -53,7 +54,7 @@
 				</div>
 			</article>
 
-			<article class="services-group__item size-2">
+			<article class="services-group__item size-1">
 				<img class="services-group__image" src="/img/index-backgrounds/background-2.jpg">
 				<div class="services-group__background"></div>
 				<div class="services-group__title">
@@ -61,7 +62,8 @@
 				</div>
 			</article>
 
-			<article class="services-group__item">
+			<article class="services-group__item size-3">
+				<div class="size__helper size__helper-3"></div>
 				<img class="services-group__image" src="/img/index-backgrounds/background-2.jpg">
 				<div class="services-group__background"></div>
 				<div class="services-group__title">
@@ -75,7 +77,7 @@
 	<!-- page content ends here -->
 
 	<!-- callback form -->
-	<!-- <?php require "../../templates/_callback.php"; ?> -->
+	<?php require "../../templates/_callback.php"; ?>
 	<!-- footer -->
 	<?php require "../../templates/_footer.php"; ?>
 
