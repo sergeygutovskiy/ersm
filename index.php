@@ -157,10 +157,10 @@
 	<!-- услуги -->
 	<section class="services-container">
 		<div class="main-container main-limited">
-			<div class="main-title">Услуги</div>
+			<div class="main-title ">Услуги</div>
 
 			<div class="services">
-				<div class="services__item">
+				<div class="services__item  wow animate__fadeIn" data-wow-duration="1s">
 					<img class="services__image" src="img/index-icons/icon-1.png">
 					<div class="services__circle"></div>
 					<div class="services__text">
@@ -168,7 +168,7 @@
 					</div>
 				</div>
 
-				<div class="services__item">
+				<div class="services__item wow animate__fadeIn" data-wow-duration="1s">
 					<img class="services__image" src="img/index-icons/icon-2.png">
 					<div class="services__circle"></div>
 					<div class="services__text">
@@ -176,7 +176,7 @@
 					</div>
 				</div>
 
-				<div class="services__item">
+				<div class="services__item wow animate__fadeIn" data-wow-duration="1s">
 					<img class="services__image" src="img/index-icons/icon-3.png">
 					<div class="services__circle"></div>
 					<div class="services__text">
@@ -184,7 +184,7 @@
 					</div>
 				</div>
 
-				<div class="services__item">
+				<div class="services__item wow animate__fadeIn" data-wow-duration="1s">
 					<img class="services__image" src="img/index-icons/icon-4.png">
 					<div class="services__circle"></div>
 					<div class="services__text">
@@ -192,7 +192,7 @@
 					</div>
 				</div>
 
-				<div class="services__item">
+				<div class="services__item wow animate__fadeIn" data-wow-duration="1s">
 					<img class="services__image" src="img/index-icons/icon-5.png">
 					<div class="services__circle"></div>
 					<div class="services__text">
@@ -200,7 +200,7 @@
 					</div>
 				</div>
 
-				<div class="services__item">
+				<div class="services__item wow animate__fadeIn" data-wow-duration="1s">
 					<img class="services__image" src="img/index-icons/icon-6.png">
 					<div class="services__circle"></div>
 					<div class="services__text">
@@ -208,7 +208,7 @@
 					</div>
 				</div>
 
-				<div class="services__item">
+				<div class="services__item wow animate__fadeIn" data-wow-duration="1s">
 					<img class="services__image" src="img/index-icons/icon-7.png">
 					<div class="services__circle"></div>
 					<div class="services__text">
@@ -216,7 +216,7 @@
 					</div>
 				</div>
 
-				<div class="services__item">
+				<div class="services__item wow animate__fadeIn" data-wow-duration="1s">
 					<img class="services__image" src="img/index-icons/icon-8.png">
 					<div class="services__circle"></div>
 					<div class="services__text">
@@ -232,7 +232,7 @@
 		<div class="main-title">Как начать работать с нами?</div>
 
 		<div class="start-work">
-			<div class="start-work__item">
+			<div class="start-work__item wow animate__fadeIn" data-wow-duration="1s">
 				<div class="start-work__number">1</div>
 				<div class="start-work__text">
 					Вызовите <span class="main-text-blue"> бесплатно  </span> 
@@ -240,14 +240,14 @@
 				</div>
 			</div>
 
-			<div class="start-work__item">
+			<div class="start-work__item wow animate__fadeIn" data-wow-duration="1s">
 				<div class="start-work__number">2</div>
 				<div class="start-work__text">
 					Получите смету <span class="main-text-blue">на следующий день </span>
 				</div>
 			</div>
 
-			<div class="start-work__item">
+			<div class="start-work__item wow animate__fadeIn" data-wow-duration="1s">
 				<div class="start-work__number">3</div>
 				<div class="start-work__text">
 					Заключите <span class="main-text-blue"> договор</span>,
@@ -255,7 +255,7 @@
 				</div>
 			</div>
 
-			<div class="start-work__item">
+			<div class="start-work__item wow animate__fadeIn" data-wow-duration="1s">
 				<div class="start-work__number">4</div>
 				<div class="start-work__text">
 					Вызовите <span class="main-text-blue"> бесплатно  </span> 
@@ -263,7 +263,7 @@
 				</div>
 			</div>
 
-			<div class="start-work__item">
+			<div class="start-work__item wow animate__fadeIn" data-wow-duration="1s">
 				<div class="start-work__number">5</div>
 				<div class="start-work__text">
 					Получите <span class="main-text-blue">окончательный расчет </span>
@@ -271,7 +271,7 @@
 				</div>
 			</div>
 
-			<div class="start-work__item">
+			<div class="start-work__item wow animate__fadeIn" data-wow-duration="1s">
 				<div class="start-work__number">6</div>
 				<div class="start-work__text">
 					Наслаждайтесь <span class="main-text-blue"> ремонтом </span> 
@@ -283,6 +283,9 @@
 
 	<?php require "templates/_callback.php"; ?>
 	<?php require "templates/_footer.php"; ?>
-
+	<script src="js/wow.min.js"></script>
+	<script>
+		new WOW().init();
+	</script>
 </body>
 </html>

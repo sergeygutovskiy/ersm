@@ -32,6 +32,7 @@ padding-left: 40px;
 .right-down{
 	width: 45%;
 }
+
 .down-contacts a{
 	text-decoration: none;
 	color: #292929;
@@ -41,7 +42,9 @@ padding-left: 40px;
 }
 @media screen and (max-width: 825px){
 
-
+	.right-down p:first-child {
+		margin-top: 0px;
+	}
 	.main-contacts{
 		flex-direction: column-reverse;
 		display: flex;
