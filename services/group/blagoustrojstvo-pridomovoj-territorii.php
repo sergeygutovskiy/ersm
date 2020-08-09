@@ -29,85 +29,104 @@
 		
 		<section class="services-group">
 			
+			<article class="services-group__item size-2">
+				<a href="/">
+					<img class="services-group__image" src="/img/page-headers/services/remont-mest-2.jpg">
+					<div class="services-group__background"></div>
+					<div class="services-group__title">
+						<a href="/">Ремонт мест общего пользования</a>
+					</div>
+				</a>
+			</article>
+
+			<article class="services-group__item size-1">
+				<a href="/">
+					<img class="services-group__image" src="/img/page-headers/services/vorota-i-kalitki.jpg">
+					<div class="services-group__background"></div>
+					<div class="services-group__title">
+						<a href="/">Ворота и калитки</a>
+					</div>
+				</a>
+			</article>
+
+			<article class="services-group__item size-1">
+				<a href="/">
+					<img class="services-group__image" src="/img/page-headers/services/ustanovka-zaborov-2.jpg">
+					<div class="services-group__background"></div>
+					<div class="services-group__title">
+						<a href="/">Установка заборов</a>
+					</div>
+				</a>
+			</article>
+
+			<article class="services-group__item size-1">
+				<a href="/">
+					<img class="services-group__image" src="/img/page-headers/services/trotuarnaya-plitka.jpg">
+					<div class="services-group__background"></div>
+					<div class="services-group__title">
+						<a href="/">Укладка тротуарной плитки</a>
+					</div>
+				</a>
+			</article>
+
+			<article class="services-group__item size-1">
+				<a href="/">
+					<img class="services-group__image" src="/img/page-headers/services/ustanovka-lavochek-i-urn.jpg">
+					<div class="services-group__background"></div>
+					<div class="services-group__title">
+						<a href="/">Установка лавочек и урн</a>
+					</div>
+				</a>
+			</article>
 
 			<article class="services-group__item size-2">
-				<img class="services-group__image" src="/img/page-headers/services/remont-mest-2.jpg">
-				<div class="services-group__background"></div>
-				<div class="services-group__title">
-					<a href="/">Ремонт мест общего пользования</a>
-				</div>
+				<a href="/">
+					<img class="services-group__image" src="/img/page-headers/services/navesy-i-kozyrki-2.jpg">
+					<div class="services-group__background"></div>
+					<div class="services-group__title">
+						<a href="/">Установка навесов и козырьков над входом</a>
+					</div>
+				</a>
 			</article>
 
 			<article class="services-group__item size-1">
-				<img class="services-group__image" src="/img/page-headers/services/vorota-i-kalitki.jpg">
-				<div class="services-group__background"></div>
-				<div class="services-group__title">
-					<a href="/">Ворота и калитки</a>
-				</div>
+				<a href="/">
+					<img class="services-group__image" src="/img/page-headers/services/gazonnye-ograzhdeniya.jpg">
+					<div class="services-group__background"></div>
+					<div class="services-group__title">
+						<a href="/">Установка газонных ограждений</a>
+					</div>
+				</a>
 			</article>
 
 			<article class="services-group__item size-1">
-				<img class="services-group__image" src="/img/page-headers/services/ustanovka-zaborov-2.jpg">
-				<div class="services-group__background"></div>
-				<div class="services-group__title">
-					<a href="/">Установка заборов</a>
-				</div>
+				<a href="/">
+					<img class="services-group__image" src="/img/page-headers/services/musornye-baki.jpg">
+					<div class="services-group__background"></div>
+					<div class="services-group__title">
+						<a href="/">Площадки для мусорных баков</a>
+					</div>
+				</a>
 			</article>
 
 			<article class="services-group__item size-1">
-				<img class="services-group__image" src="/img/page-headers/services/trotuarnaya-plitka.jpg">
-				<div class="services-group__background"></div>
-				<div class="services-group__title">
-					<a href="/">Укладка тротуарной плитки</a>
-				</div>
+				<a href="/">
+					<img class="services-group__image" src="/img/page-headers/services/gazony-i-klumby.jpg">
+					<div class="services-group__background"></div>
+					<div class="services-group__title">
+						<a href="/">Устройство газонов и клумб</a>
+					</div>
+				</a>
 			</article>
 
 			<article class="services-group__item size-1">
-				<img class="services-group__image" src="/img/page-headers/services/ustanovka-lavochek-i-urn.jpg">
-				<div class="services-group__background"></div>
-				<div class="services-group__title">
-					<a href="/">Установка лавочек и урн</a>
-				</div>
-			</article>
-
-			<article class="services-group__item size-2">
-				<img class="services-group__image" src="/img/page-headers/services/navesy-i-kozyrki-2.jpg">
-				<div class="services-group__background"></div>
-				<div class="services-group__title">
-					<a href="/">Установка навесов и козырьков над входом</a>
-				</div>
-			</article>
-
-			<article class="services-group__item size-1">
-				<img class="services-group__image" src="/img/page-headers/services/gazonnye-ograzhdeniya.jpg">
-				<div class="services-group__background"></div>
-				<div class="services-group__title">
-					<a href="/">Установка газонных ограждений</a>
-				</div>
-			</article>
-
-			<article class="services-group__item size-1">
-				<img class="services-group__image" src="/img/page-headers/services/musornye-baki.jpg">
-				<div class="services-group__background"></div>
-				<div class="services-group__title">
-					<a href="/">Площадки для мусорных баков</a>
-				</div>
-			</article>
-
-			<article class="services-group__item size-1">
-				<img class="services-group__image" src="/img/page-headers/services/gazony-i-klumby.jpg">
-				<div class="services-group__background"></div>
-				<div class="services-group__title">
-					<a href="/">Устройство газонов и клумб</a>
-				</div>
-			</article>
-
-			<article class="services-group__item size-1">
-				<img class="services-group__image" src="/img/page-headers/services/skamejki-i-urny-2.jpg">
-				<div class="services-group__background"></div>
-				<div class="services-group__title">
-					<a href="/">Скамейки, урны, цветочницы, ограничители движения</a>
-				</div>
+				<a href="/">
+					<img class="services-group__image" src="/img/page-headers/services/skamejki-i-urny-2.jpg">
+					<div class="services-group__background"></div>
+					<div class="services-group__title">
+						<a href="/">Скамейки, урны, цветочницы, ограничители движения</a>
+					</div>
+				</a>
 			</article>	
 
 		</section>
