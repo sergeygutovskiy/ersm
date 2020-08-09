@@ -92,7 +92,7 @@
 			<article class="services-group__item size-2">
 				<div class="size__helper size__helper-2"></div>
 				<a href="/">
-					<img class="services-group__image" src="/img/page-headers/services/montazh-podvesnyh-potolkov.jpg">
+					<img class="services-group__image" src="/img/page-headers/services/zamena-i-ustanovka-pochtovyh-yashikov.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
 						<a href="/">Замена и установка почтовых ящиков</a>
@@ -102,7 +102,7 @@
 
 			<article class="services-group__item size-2">
 				<a href="/">
-					<img class="services-group__image" src="/img/page-headers/services/montazh-podvesnyh-potolkov.jpg">
+					<img class="services-group__image" src="/img/page-headers/services/remont-lestnichnogo-marsha.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
 						<a href="/">Ремонт лестничного марша в подъезде</a>
