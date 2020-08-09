@@ -15,7 +15,7 @@
 	<!-- page header starts here -->
 	<?php require "../../templates/_page_header-start.php"; ?>
 		
-		<img class="header-background-image" src="/img/index-backgrounds/background-1.jpg">
+		<img class="header-background-image" src="/img/page-headers/services/skamejki-i-urny.jpg">
 		<div class="header__title header__title--common-page ">
 			Благоустройство придомовой территории
 		</div>
@@ -44,7 +44,7 @@
 					<img class="services-group__image" src="/img/page-headers/services/vorota-i-kalitki.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Ворота и калитки</a>
+						<a href="/services/vorota-i-kalitki">Ворота и калитки</a>
 					</div>
 				</a>
 			</article>
