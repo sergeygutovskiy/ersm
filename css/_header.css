@@ -126,7 +126,7 @@
 
 .header__title,
 .header__button-container {
-	width: 100%;
+	width: calc(100% - 83px * 2);
 	margin-left: 83px;
 	margin-right: 83px;
 }
@@ -172,7 +172,10 @@
 
 @media screen and (max-width: 768px)
 {
-	.header { height: 100vh; }
+	.header { 
+		height: 100vh; 
+		margin-bottom: 32px;
+	}
 
 	.header__title,
 	.header__button-container {
@@ -181,6 +184,8 @@
 		
 		padding-left: 16px;
 		padding-right: 16px;
+	
+		width: calc(100% - 16px * 2);
 	}
 
 	.header__title br { display: none; }
@@ -191,7 +196,6 @@
 	.header { 
 		height: 100vh; 
 		height: calc(var(--vh, 1vh) * 100); 
-		margin-bottom: 32px;
 	}
 
 	.header-info { padding-left: 0; }

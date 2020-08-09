@@ -7,7 +7,7 @@
 
 	<link rel="stylesheet" type="text/css" href="/css/pages/services_group.css">
 	<link rel="stylesheet" type="text/css" href="/css/_header.css">
-
+	<link rel="stylesheet" type="text/css" href="/css/_header_all_pages.css">
 </head>
 
 <body>
@@ -33,7 +33,7 @@
 				<img class="services-group__image" src="/img/index-backgrounds/background-2.jpg">
 				<div class="services-group__background"></div>
 				<div class="services-group__title">
-					word word word word word word
+					1
 				</div>
 			</article>
 
@@ -41,15 +41,7 @@
 				<img class="services-group__image" src="/img/index-backgrounds/background-2.jpg">
 				<div class="services-group__background"></div>
 				<div class="services-group__title">
-					word word word word word word
-				</div>
-			</article>
-
-			<article class="services-group__item size-3">
-				<img class="services-group__image" src="/img/index-backgrounds/background-2.jpg">
-				<div class="services-group__background"></div>
-				<div class="services-group__title">
-					word word word word word word
+					2
 				</div>
 			</article>
 
@@ -57,23 +49,7 @@
 				<img class="services-group__image" src="/img/index-backgrounds/background-2.jpg">
 				<div class="services-group__background"></div>
 				<div class="services-group__title">
-					word word word word word word
-				</div>
-			</article>
-
-			<article class="services-group__item">
-				<img class="services-group__image" src="/img/index-backgrounds/background-2.jpg">
-				<div class="services-group__background"></div>
-				<div class="services-group__title">
-					word word word word word word
-				</div>
-			</article>
-
-			<article class="services-group__item">
-				<img class="services-group__image" src="/img/index-backgrounds/background-2.jpg">
-				<div class="services-group__background"></div>
-				<div class="services-group__title">
-					word word word word word word
+					3
 				</div>
 			</article>
 
@@ -81,7 +57,15 @@
 				<img class="services-group__image" src="/img/index-backgrounds/background-2.jpg">
 				<div class="services-group__background"></div>
 				<div class="services-group__title">
-					word word word word word word
+					4
+				</div>
+			</article>
+
+			<article class="services-group__item">
+				<img class="services-group__image" src="/img/index-backgrounds/background-2.jpg">
+				<div class="services-group__background"></div>
+				<div class="services-group__title">
+					5
 				</div>
 			</article>
 
