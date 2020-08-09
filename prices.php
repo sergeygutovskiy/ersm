@@ -8,17 +8,17 @@
 
 	<link rel="stylesheet" type="text/css" href="/css/pages/prices.css">
 	<link rel="stylesheet" type="text/css" href="/css/_header.css">
-
+	<link rel="stylesheet" type="text/css" href="/css/_header_all_pages.css">
 </head>
 
 <body>
 
 	<!-- page header -->
 	<?php require "templates/_page_header-start.php"; ?>
-	<img class="header-background-image" src="/img/page-headers/header-prices.jpg">
-	<div class="header__title header__title--common-page">
-		Стоимость
-	</div>
+		<img class="header-background-image" src="/img/page-headers/header-prices.jpg">
+		<div class="header__title">
+			Стоимость
+		</div>
 	<?php require "templates/_page_header-end.php"; ?>
 
 	<main class="main-container main-limited">

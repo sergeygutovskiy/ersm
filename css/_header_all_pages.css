@@ -1,0 +1,15 @@
+.header { height: 50vh; }
+
+.header__title { top: auto; bottom: 0; }
+
+@media screen and (max-width: 1024px)
+{
+	.header { height: 65vh; }	
+}
+
+@media screen and (max-width: 425px)
+{
+	.header { height: 80vh; height: calc(var(--vh, 1vh) * 80); }
+
+	.header__title { position: absolute; bottom: 32px; }
+}

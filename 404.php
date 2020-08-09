@@ -7,7 +7,6 @@
 
 	<link rel="stylesheet" type="text/css" href="/css/_header.css">
 	<link rel="stylesheet" type="text/css" href="/css/pages/404.css">
-
 </head>
 
 <body>

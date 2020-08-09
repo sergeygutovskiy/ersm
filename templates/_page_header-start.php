@@ -1,4 +1,4 @@
-<header class="header header--common-page">
+<header class="header">
 	<div class="header-background"></div>
 
 	<?php require "_navigation.php"; ?>	

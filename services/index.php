@@ -7,6 +7,7 @@
 
 <link rel="stylesheet" type="text/css" href="/css/pages/services.css">
 <link rel="stylesheet" type="text/css" href="/css/_header.css">
+<link rel="stylesheet" type="text/css" href="/css/_header_all_pages.css">
 
 </head>
 
@@ -15,7 +16,7 @@
 	<!-- page header -->
 	<?php require "../templates/_page_header-start.php"; ?>
 	<img class="header-background-image" src="/img/page-headers/header-services.jpg">
-	<div class="header__title header__title--common-page ">
+	<div class="header__title">
 		Услуги
 	</div>
 	<?php require "../templates/_page_header-end.php"; ?>

@@ -7,6 +7,7 @@
 
 	<link rel="stylesheet" type="text/css" href="/css/pages/service.css">
 	<link rel="stylesheet" type="text/css" href="/css/_header.css">
+	<link rel="stylesheet" type="text/css" href="/css/_header_all_pages.css">
 
 </head>
 
@@ -16,7 +17,7 @@
 	<?php require "../templates/_page_header-start.php"; ?>
 		
 		<img class="header-background-image" src="/img/index-backgrounds/background-1.jpg">
-		<div class="header__title header__title--common-page ">
+		<div class="header__title">
 			Фасадные работы
 		</div>
 

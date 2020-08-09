@@ -7,17 +7,17 @@
 
 	<link rel="stylesheet" type="text/css" href="/css/pages/contacts.css">
 	<link rel="stylesheet" type="text/css" href="/css/_header.css">
-
+	<link rel="stylesheet" type="text/css" href="/css/_header_all_pages.css">
 </head>
 
 <body>
 
 	<!-- page header -->
 	<?php require "templates/_page_header-start.php"; ?>
-	<img class="header-background-image" src="/img/page-headers/header-contacts.jpg">
-	<div class="header__title header__title--common-page ">
-		Контакты
-	</div>
+		<img class="header-background-image" src="/img/page-headers/header-contacts.jpg">
+		<div class="header__title">
+			Контакты
+		</div>
 	<?php require "templates/_page_header-end.php"; ?>
 
 	<main class="main-contacts main-container main-limited">

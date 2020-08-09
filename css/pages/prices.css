@@ -99,6 +99,8 @@ body {
 	height: 100%;
 	object-fit: cover;
 	border-radius: 7px;
+
+	max-height: 440px; 
 }
 
 @media screen and (max-width: 1240px)
@@ -128,7 +130,6 @@ body {
 	.prices-links::-webkit-scrollbar-thumb {
 		background-color: #C4C4C4;
 		border-radius: 3px;
-		/*outline: 1px solid #C4C4C4;*/
 	}
 
 	.prices-links__column:last-child .prices-links__item:last-child {
@@ -181,7 +182,7 @@ body {
 		padding: 8px;
 	}
 
-	.prices-list__item:hover {
+	.prices-list__item:not(:first-child):hover {
 		cursor: default;
 		border-left: none;
 		background-color: white;
