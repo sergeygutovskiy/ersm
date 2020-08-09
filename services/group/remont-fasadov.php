@@ -31,42 +31,42 @@
 			
 			<article class="services-group__item size-2">
 				<div class="size__helper size__helper-2"></div>
-				<a href="/">
+				<a href="/services/otmostka-fundamenta">
 					<img class="services-group__image" src="/img/page-headers/services/remont-fasadov.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Ремонт отмостки фундамента</a>
+						<a href="/services/otmostka-fundamenta">Ремонт отмостки фундамента</a>
 					</div>
 				</a>
 			</article>
 
 			<article class="services-group__item size-2">
-				<a href="/">
+				<a href="/services/krylco-poduezda">
 					<img class="services-group__image" src="/img/page-headers/services/remont-i-oblicovka-krylec-poduezdov.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Ремонт и облицовка крылец подъездов</a>
+						<a href="/services/krylco-poduezda">Ремонт и облицовка крылец подъездов</a>
 					</div>
 				</a>
 			</article>
 
 			<article class="services-group__item size-2">
 				<div class="size__helper size__helper-2"></div>
-				<a href="/">
+				<a href="/services/trotuary-i-dorozhki">
 					<img class="services-group__image" src="/img/page-headers/services/trotuary-i-dorozhki-iz-asfalta-i-plitki.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Тротуары и дорожки из асфальта и плитки</a>
+						<a href="/services/trotuary-i-dorozhki">Тротуары и дорожки из асфальта и плитки</a>
 					</div>
 				</a>
 			</article>
 
 			<article class="services-group__item size-2">
-				<a href="/">
+				<a href="/services/fasadnye-raboty">
 					<img class="services-group__image" src="/img/page-headers/services/fasadnye-raboty.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Фасадные работы</a>
+						<a href="/services/fasadnye-raboty">Фасадные работы</a>
 					</div>
 				</a>
 			</article>

@@ -31,42 +31,42 @@
 			
 			<article class="services-group__item size-2">
 				<div class="size__helper size__helper-2"></div>
-				<a href="/">
+				<a href="/services/metalloplastikovye-okna">
 					<img class="services-group__image" src="/img/page-headers/services/metalloplastikovye-okna-2.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Металлопластиковые окна</a>
+						<a href="/services/metalloplastikovye-okna">Металлопластиковые окна</a>
 					</div>
 				</a>
 			</article>
 
 			<article class="services-group__item size-2">
-				<a href="/">
+				<a href="/services/dveri-alyuminievye">
 					<img class="services-group__image" src="/img/page-headers/services/dveri-alyuminievye.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Двери алюминиевые</a>
+						<a href="/services/dveri-alyuminievye">Двери алюминиевые</a>
 					</div>
 				</a>
 			</article>
 
 			<article class="services-group__item size-2">
 				<div class="size__helper size__helper-2"></div>
-				<a href="/">
+				<a href="/services/metalloplastikovye-dveri">
 					<img class="services-group__image" src="/img/page-headers/services/metalloplastikovye-dveri.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Металлопластиковые двери</a>
+						<a href="/services/metalloplastikovye-dveri">Металлопластиковые двери</a>
 					</div>
 				</a>
 			</article>
 
 			<article class="services-group__item size-2">
-				<a href="/">
+				<a href="/services/protivopozharnye-dveri">
 					<img class="services-group__image" src="/img/page-headers/services/protivopozharnye-i-tehnicheskie-dveri.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Противопожарные и технические двери</a>
+						<a href="/services/protivopozharnye-dveri">Противопожарные и технические двери</a>
 					</div>
 				</a>
 			</article>

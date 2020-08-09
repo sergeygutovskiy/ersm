@@ -24,7 +24,9 @@
 	<main class="main-container main-limited">
 		<div class="main-services">
 			<div class="block-services">
-				<h3>Благоустройство<br>придомовой территории</h3>
+				<a href="/services/group/blagoustrojstvo-pridomovoj-territorii">
+					<h3>Благоустройство<br>придомовой территории</h3>
+				</a>
 				<ul>
 					<li><a href="vorota-i-kalitki">Ворота и калитки</a></li>
 					<li><a href="remont-mest">Ремонт мест общего пользования</a></li>
@@ -40,7 +42,9 @@
 			</div>
 
 			<div class="block-services">
-				<h3>Косметический ремонт <br> парадных</h3>
+				<a href="/services/group/kosmeticheskij-remont-paradnyh">
+					<h3>Косметический ремонт <br> парадных</h3>
+				</a>
 				<ul>
 					<li><a href="remont-pervyh-etazhej">Износостойкий ремонт первых этажей</a></li>
 					<li><a href="malyarnye-raboty">Штукатурно-малярные работы</a></li>
@@ -54,7 +58,9 @@
 			</div>
 
 			<div class="block-services">
-				<h3>Замена окон и <br>дверей</h3>
+				<a href="/services/group/zamena-okon-i-dverej">
+					<h3>Замена окон и <br>дверей</h3>
+				</a>
 				<ul>
 					<li><a href="metalloplastikovye-okna">Металлопластиковые окна</a></li>
 					<li><a href="dveri-alyuminievye">Двери алюминиевые</a></li>
@@ -64,7 +70,9 @@
 			</div>
 
 			<div class="block-services">
-				<h3>Ремонт фасадов</h3>
+				<a href="/services/group/remont-fasadov">
+					<h3>Ремонт фасадов</h3>
+				</a>
 				<ul>
 					<li><a href="otmostka-fundamenta">Ремонт отмостки фундамента</a></li>
 					<li><a href="krylco-poduezda">Ремонт и облицовка крылец подъездов</a></li>
@@ -74,7 +82,9 @@
 			</div>
 
 			<div class="block-services">
-				<h3>Прочее</h3>
+				<a href="/services/group/prochee">
+					<h3>Прочее</h3>
+				</a>
 				<ul>
 					<li><a href="podvaly-i-cherdaki">Утепление и гидроизоляция подвалов и чердаков</a></li>
 					<li><a href="remont-musoroprovoda">Ремонт и мойка мусоропровода</a></li>

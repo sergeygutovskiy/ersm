@@ -30,82 +30,82 @@
 		<section class="services-group">
 			
 			<article class="services-group__item size-2">
-				<a href="/">
+				<a href="/services/remont-pervyh-etazhej">
 					<img class="services-group__image" src="/img/page-headers/services/iznosostojkij-remont.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Износостойкий ремонт первых этажей</a>
+						<a href="/services/remont-pervyh-etazhej">Износостойкий ремонт первых этажей</a>
 					</div>
 				</a>
 			</article>
 
 			<article class="services-group__item size-1">
-				<a href="/">
+				<a href="/services/ukladka-keramogranita">
 					<img class="services-group__image" src="/img/page-headers/services/ukladka-keramogranita.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Укладка керамогранита</a>
+						<a href="/services/ukladka-keramogranita">Укладка керамогранита</a>
 					</div>
 				</a>
 			</article>
 
 			<article class="services-group__item size-1">
-				<a href="/">
+				<a href="/services/dekorativnaya-shtukaturka">
 					<img class="services-group__image" src="/img/page-headers/services/dekorativnaya-shtukaturka.jpeg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Декоративная штукатурка</a>
+						<a href="/services/dekorativnaya-shtukaturka">Декоративная штукатурка</a>
 					</div>
 				</a>
 			</article>
 
 			<article class="services-group__item size-1">
-				<a href="/">
+				<a href="/services/oblicovka-stupenej">
 					<img class="services-group__image" src="/img/page-headers/services/oblicovka-stupenej.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Облицовка ступеней</a>
+						<a href="/services/oblicovka-stupenej">Облицовка ступеней</a>
 					</div>
 				</a>
 			</article>
 
 			<article class="services-group__item size-2">
-				<a href="/">
+				<a href="/services/malyarnye-raboty">
 					<img class="services-group__image" src="/img/page-headers/services/shtukaturno-malyarnye-raboty.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Штукатурно-малярные работы</a>
+						<a href="/services/malyarnye-raboty">Штукатурно-малярные работы</a>
 					</div>
 				</a>
 			</article>
 
 			<article class="services-group__item size-1">
-				<a href="/">
+				<a href="/services/podvesnye-potolki">
 					<img class="services-group__image" src="/img/page-headers/services/montazh-podvesnyh-potolkov.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Монтаж подвесных потолков</a>
+						<a href="/services/podvesnye-potolki">Монтаж подвесных потолков</a>
 					</div>
 				</a>
 			</article>
 
 			<article class="services-group__item size-2">
 				<div class="size__helper size__helper-2"></div>
-				<a href="/">
+				<a href="/services/pochtovye-yashiki">
 					<img class="services-group__image" src="/img/page-headers/services/zamena-i-ustanovka-pochtovyh-yashikov.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Замена и установка почтовых ящиков</a>
+						<a href="/services/pochtovye-yashiki">Замена и установка почтовых ящиков</a>
 					</div>
 				</a>
 			</article>
 
 			<article class="services-group__item size-2">
-				<a href="/">
+				<a href="/services/lestnichnyj-marsh">
 					<img class="services-group__image" src="/img/page-headers/services/remont-lestnichnogo-marsha.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Ремонт лестничного марша в подъезде</a>
+						<a href="/services/lestnichnyj-marsh">Ремонт лестничного марша в подъезде</a>
 					</div>
 				</a>
 			</article>
