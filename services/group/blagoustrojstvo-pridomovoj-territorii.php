@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Страница</title>
+	<title>Благоустройство придомовой территории</title>
 
 	<?php require "../../templates/_header.php"; ?>
 
