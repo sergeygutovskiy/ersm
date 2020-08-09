@@ -25,7 +25,7 @@ main ul li:not(:first-child) {
 .service-image-contanier::after {
 	content: '';
 	display: block;
-	padding-bottom: 25%;
+	padding-bottom: 45%;
 }
 
 .service-image {
