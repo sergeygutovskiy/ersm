@@ -31,10 +31,11 @@
 			
 			<article class="services-group__item size-2">
 				<div class="size__helper size__helper-2"></div>
+				
 				<img class="services-group__image" src="/img/index-backgrounds/background-2.jpg">
 				<div class="services-group__background"></div>
 				<div class="services-group__title">
-					1
+					<a href="/">1</a>
 				</div>
 			</article>
 
@@ -42,7 +43,7 @@
 				<img class="services-group__image" src="/img/index-backgrounds/background-2.jpg">
 				<div class="services-group__background"></div>
 				<div class="services-group__title">
-					2
+					<a href="/">2</a>
 				</div>
 			</article>
 
@@ -50,7 +51,7 @@
 				<img class="services-group__image" src="/img/index-backgrounds/background-2.jpg">
 				<div class="services-group__background"></div>
 				<div class="services-group__title">
-					3
+					<a href="/">3</a>
 				</div>
 			</article>
 
@@ -58,16 +59,17 @@
 				<img class="services-group__image" src="/img/index-backgrounds/background-2.jpg">
 				<div class="services-group__background"></div>
 				<div class="services-group__title">
-					4
+					<a href="/">4</a>
 				</div>
 			</article>
 
 			<article class="services-group__item size-3">
 				<div class="size__helper size__helper-3"></div>
+				
 				<img class="services-group__image" src="/img/index-backgrounds/background-2.jpg">
 				<div class="services-group__background"></div>
 				<div class="services-group__title">
-					5
+					<a href="/">5</a>
 				</div>
 			</article>
 

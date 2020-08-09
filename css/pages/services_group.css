@@ -90,8 +90,13 @@
 
 @media screen and (max-width: 768px)
 {
-	.services-group__item {
+	.services-group__item,
+	.services-group__item.size-3 {
 		grid-column: auto / span 2;
+	}
+
+	.size__helper-3 {
+		width: calc( (100% - 24px) / 2 );
 	}
 
 	.services-group__item::after {

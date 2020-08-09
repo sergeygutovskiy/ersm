@@ -2,18 +2,15 @@
 	background: #FAF7F8;
 	box-shadow: 4px 4px 10px 2px rgba(75, 81, 91, 0.1), -4px -4px 10px 2px rgba(75, 81, 91, 0.1);
 	border-radius: 7px;
-	padding-right: 40px;
-	padding-left: 40px;
-	padding-top: 40px;
+	padding: 40px;
 	padding-bottom: 64px;
 	outline: #008DD2;
 	max-width: 1440px;
 
-	margin-top: 64px;
+	margin-top: 52px;
 	display: flex;
 	justify-content: space-between;
 	color: #292929;
-	max-width: 1600px;
 }
 
 .left-form {
@@ -100,6 +97,7 @@
 	.main-form {
 		display: block;
 		padding: 24px 16px;
+		margin-top: 32px;
 	}
 
 	.main-form h3 {
