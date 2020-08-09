@@ -29,7 +29,7 @@
 	<main class="main-container main-limited">
 		
 		<section class="service-image-contanier">
-			<img class="service-image" src="/img/index-backgrounds/background-1.jpg">
+			<img class="service-image" src="/img/page-headers/services/trotuarnaya-plitka.jpg">
 		</section>
 
 		<section class="service-quote">
