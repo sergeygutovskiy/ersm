@@ -34,7 +34,7 @@
 					<img class="services-group__image" src="/img/page-headers/services/remont-mest-2.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Ремонт мест общего пользования</a>
+						<a href="/services/remont-mest">Ремонт мест общего пользования</a>
 					</div>
 				</a>
 			</article>

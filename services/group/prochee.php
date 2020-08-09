@@ -15,7 +15,7 @@
 	<!-- page header starts here -->
 	<?php require "../../templates/_page_header-start.php"; ?>
 		
-		<img class="header-background-image" src="/img/page-headers/services/iznosostojkij-remont-2.jpg">
+		<img class="header-background-image" src="/img/page-headers/services/remont-i-mojka-musoroprovodov.jpg">
 		<div class="header__title header__title--common-page ">
 			Прочее
 		</div>
@@ -31,80 +31,62 @@
 			
 			<article class="services-group__item size-2">
 				<a href="/">
-					<img class="services-group__image" src="/img/page-headers/services/iznosostojkij-remont.jpg">
+					<img class="services-group__image" src="/img/page-headers/services/uteplenie-i-gidroizolyaciya-podvalov-i-cherdakov.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Износостойкий ремонт первых этажей</a>
+						<a href="/">Утепление и гидроизоляция подвалов и чердаков</a>
 					</div>
 				</a>
 			</article>
 
 			<article class="services-group__item size-1">
 				<a href="/">
-					<img class="services-group__image" src="/img/page-headers/services/ukladka-keramogranita.jpg">
+					<img class="services-group__image" src="/img/page-headers/services/remont-i-mojka-musoroprovodov-2.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Укладка керамогранита</a>
+						<a href="/">Ремонт и мойка мусоропроводов</a>
 					</div>
 				</a>
 			</article>
 
 			<article class="services-group__item size-1">
 				<a href="/">
-					<img class="services-group__image" src="/img/page-headers/services/dekorativnaya-shtukaturka.jpeg">
+					<img class="services-group__image" src="/img/page-headers/services/montazh-sistem-videonablyudeniya.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Декоративная штукатурка</a>
+						<a href="/">Монтаж систем видеонаблюдения</a>
 					</div>
 				</a>
 			</article>
 
 			<article class="services-group__item size-1">
 				<a href="/">
-					<img class="services-group__image" src="/img/page-headers/services/oblicovka-stupenej.jpg">
+					<img class="services-group__image" src="/img/page-headers/services/krovelnye-raboty.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Облицовка ступеней</a>
+						<a href="/">Кровельные работы</a>
 					</div>
 				</a>
 			</article>
 
 			<article class="services-group__item size-2">
 				<a href="/">
-					<img class="services-group__image" src="/img/page-headers/services/shtukaturno-malyarnye-raboty.jpg">
+					<img class="services-group__image" src="/img/page-headers/services/vyezd-specialistov-na-avarijnye-raboty.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Штукатурно-малярные работы</a>
+						<a href="/">Выезд специалистов на аварийные работы</a>
 					</div>
 				</a>
 			</article>
 
 			<article class="services-group__item size-1">
 				<a href="/">
-					<img class="services-group__image" src="/img/page-headers/services/montazh-podvesnyh-potolkov.jpg">
+					<img class="services-group__image" src="/img/page-headers/services/ustanovka-pandusa.jpg">
 					<div class="services-group__background"></div>
 					<div class="services-group__title">
-						<a href="/">Монтаж подвесных потолков</a>
+						<a href="/">Установка пандуса</a>
 					</div>
 				</a>
-			</article>
-
-			<article class="services-group__item size-2">
-				<div class="size__helper size__helper-2"></div>
-				
-				<img class="services-group__image" src="/img/page-headers/services/zamena-i-ustanovka-pochtovyh-yashikov.jpg">
-				<div class="services-group__background"></div>
-				<div class="services-group__title">
-					<a href="/">Замена и установка почтовых ящиков</a>
-				</div>
-			</article>
-
-			<article class="services-group__item size-2">
-				<img class="services-group__image" src="/img/page-headers/services/remont-lestnichnogo-marsha.jpg">
-				<div class="services-group__background"></div>
-				<div class="services-group__title">
-					<a href="/">Ремонт лестничного марша в подъезде</a>
-				</div>
 			</article>
 
 		</section>
