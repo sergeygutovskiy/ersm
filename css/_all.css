@@ -38,10 +38,12 @@ body {
 
 	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+
+/*
 ::selection {
 	background: var(--secondary--color);
-	}
-
+}
+*/
 
 * { 
 	box-sizing: border-box; 
@@ -52,11 +54,13 @@ body {
 a { 
 	text-decoration: none;
 	color: white; 
+	transition: color 0.1s linear;
 }
+
 a:hover {
 	color: var(--secondary--color);
-	transition: 0.5s;
 }
+
 ul {
 	margin: 0;
 	padding: 0;

@@ -32,14 +32,14 @@
 	background: #EBE8EC;
 	border-radius: 7px;
 	border: none;
-	color: #FF993F;
+	color: #292929;
 	font-size: 18px;
 	font-weight: 300 !important;
 	border:1px solid transparent;
 }
 
-.right-form input:focus,textarea:focus{
-	border:1px solid #FFA759;;
+.right-form input:focus, textarea:focus {
+	border: 1px solid #FFA759;
 }
 
 .form-input{
@@ -53,6 +53,8 @@
 
 .right-form textarea {
 	height: 170px;
+	min-height: 170px;
+	max-height: 340px;
 	resize: vertical;
 	display: block;
 }

@@ -90,7 +90,6 @@
 						<span>от 320 р. за м.п.</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-1.jpg">
 			</div>
 
 			<div class="main-title" id="price-2">Эмаль ПФ-115</div>
@@ -145,7 +144,6 @@
 						<span>от 430 р. за шт</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
 			<div class="main-title" id="price-3">Входные группы</div>
@@ -172,7 +170,6 @@
 						<span>от 650 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
 			<div class="main-title" id="price-4">Прочие работы</div>
@@ -235,7 +232,6 @@
 						<span>от 3200 р.</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
 			<div class="main-title" id="price-5">Потолок</div>
@@ -314,7 +310,6 @@
 						<span>от 610 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
 			<div class="main-title" id="price-6">Стены</div>
@@ -465,7 +460,6 @@
 						<span>от 260 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 			
 			<div class="main-title" id="price-7">Плитка пол на первом этаже</div>
@@ -508,7 +502,6 @@
 						<span>от 60 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
 			<div class="main-title" id="price-8">Укладка клинкерной плитки</div>
@@ -531,7 +524,6 @@
 						<span>от 550 р. за м.п.</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
 			<div class="main-title" id="price-9">Укладка плитки на стены</div>
@@ -570,7 +562,6 @@
 						<span>от 1400 р. за шт</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
 			<div class="main-title" id="price-10">Швы</div>
@@ -605,7 +596,6 @@
 						<span>от 90 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
 			<div class="main-title" id="price-11">Мягкая кровля</div>
@@ -632,7 +622,6 @@
 						<span>от 410 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
 			<div class="main-title" id="price-12">Фальцевая кровля</div>
@@ -651,7 +640,6 @@
 						<span>от 600 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
 			<div class="main-title" id="price-13">Наплавляемая кровля</div>
@@ -670,7 +658,6 @@
 						<span>от 120 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
 			<div class="main-title" id="price-14">Обогрев кровли и водостоков</div>
@@ -689,7 +676,6 @@
 						<span>от 10000 р. за услугу</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
 			<div class="main-title" id="price-15">Гидроизоляция кровли</div>
@@ -704,7 +690,6 @@
 						<span>от 500 р. за м.п.</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
 			<div class="main-title" id="price-16">Двери</div>
@@ -735,7 +720,6 @@
 						<span>от 7000 р. за шт</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
 			<div class="main-title" id="price-17">Фурнитура</div>
@@ -786,7 +770,6 @@
 						<span>от 3500 р. за шт</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
 			<div class="main-title" id="price-18">Окна</div>
@@ -829,7 +812,6 @@
 						<span>от 2400 р. за шт</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
 			<div class="main-title" id="price-19">Монтажные/демонтажные работы</div>
@@ -876,7 +858,6 @@
 						<span>от 3000 р. за шт</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
 			<div class="main-title" id="price-20">Асфальтирование</div>
@@ -931,7 +912,6 @@
 						<span>от 560 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>		
 
 			<div class="main-title" id="price-21">Разметка</div>
@@ -946,7 +926,6 @@
 						<span>от 450 р. за место</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
 			<div class="main-title" id="price-22">Тротуарная плитка</div>
@@ -965,7 +944,6 @@
 						<span>от 45000 р. за шт</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
 			<div class="main-title" id="price-23">Газоны</div>
@@ -988,10 +966,13 @@
 						<span>от 450 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 		</section>
 	</main>
+
+	<button onclick="scrollToPageTop()" id="scroll-top-button">
+		<i class="fal fa-arrow-circle-up"></i>	
+	</button>
 
 	<?php require "templates/_footer.php"; ?>
 
@@ -1013,6 +994,30 @@
 			}
 
 			isCategoriesActive = !isCategoriesActive;
+		}
+	</script>
+
+	<script>
+		var scrollTopButton = document.getElementById("scroll-top-button");
+		var scrollHeight    = 700; 
+
+		window.onscroll = function() { scrollFunction() };
+
+		function scrollFunction() {
+
+			// console.log(document.documentElement.scrollTop);
+
+			if (document.body.scrollTop > scrollHeight 
+				|| document.documentElement.scrollTop > scrollHeight) {
+				scrollTopButton.style.display = "block";
+			} else {
+				scrollTopButton.style.display = "none";
+			}
+		}
+
+		function scrollToPageTop() {
+			document.body.scrollTop = 0; // For Safari
+			document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 		}
 	</script>
 
