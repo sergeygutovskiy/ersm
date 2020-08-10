@@ -61,7 +61,7 @@
 						<li>3. При вводе адреса была допущена ошибка</li>
 					</ul>
 				</div>
-				<a class="p404__button" href="/">Перейти на главную</a>
+				<a class="p404__button main-btn" href="/">Перейти на главную</a>
 			</section>
 		</header>
 

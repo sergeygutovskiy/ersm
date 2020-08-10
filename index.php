@@ -74,7 +74,7 @@
 				Ремонт парадных в Москве <br> и Санкт-Петербурге
 			</div>
 			<div class="header__button-container">
-				<button class="header__button">Заказать консультацию</button>
+				<button class="header__button main-btn">Заказать консультацию</button>
 			</div>
 		</section>
 
