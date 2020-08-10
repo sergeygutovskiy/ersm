@@ -160,69 +160,69 @@
 			<div class="main-title ">Услуги</div>
 
 			<div class="services">
-				<div class="services__item  wow animate__fadeIn" data-wow-duration="1s">
+				<a href="services/group/kosmeticheskij-remont-paradnyh" class="services__item  wow animate__fadeIn" data-wow-duration="1s">
 					<img class="services__image" src="img/index-icons/icon-1.png">
 					<div class="services__circle"></div>
 					<div class="services__text">
 						Косметический ремонт <br> парадных
 					</div>
-				</div>
+				</a>
 
-				<div class="services__item wow animate__fadeIn" data-wow-duration="1s">
+				<a href="services/group/prochee" class="services__item wow animate__fadeIn" data-wow-duration="1s">
 					<img class="services__image" src="img/index-icons/icon-2.png">
 					<div class="services__circle"></div>
 					<div class="services__text">
 						Общестроительные <br> работы
 					</div>
-				</div>
+				</a>
 
-				<div class="services__item wow animate__fadeIn" data-wow-duration="1s">
+				<a href="services/group/blagoustrojstvo-pridomovoj-territorii" class="services__item wow animate__fadeIn" data-wow-duration="1s">
 					<img class="services__image" src="img/index-icons/icon-3.png">
 					<div class="services__circle"></div>
 					<div class="services__text">
 						Благоустройство <br> придомовой территории
 					</div>
-				</div>
+				</a>
 
-				<div class="services__item wow animate__fadeIn" data-wow-duration="1s">
+				<a href="services/proektirovanie" class="services__item wow animate__fadeIn" data-wow-duration="1s">
 					<img class="services__image" src="img/index-icons/icon-4.png">
 					<div class="services__circle"></div>
 					<div class="services__text">
 						Проектирование и <br> согласование проектов
 					</div>
-				</div>
+				</a>
 
-				<div class="services__item wow animate__fadeIn" data-wow-duration="1s">
+				<a href="services/group/zamena-okon-i-dverej" class="services__item wow animate__fadeIn" data-wow-duration="1s">
 					<img class="services__image" src="img/index-icons/icon-5.png">
 					<div class="services__circle"></div>
 					<div class="services__text">
 						Установка окон и <br> дверей
 					</div>
-				</div>
+				</a>
 
-				<div class="services__item wow animate__fadeIn" data-wow-duration="1s">
+				<a href="services/inzhenernye-sistemy" class="services__item wow animate__fadeIn" data-wow-duration="1s">
 					<img class="services__image" src="img/index-icons/icon-6.png">
 					<div class="services__circle"></div>
 					<div class="services__text">
 						Ремонт общедомовых <br> инженерных систем
 					</div>
-				</div>
+				</a>
 
-				<div class="services__item wow animate__fadeIn" data-wow-duration="1s">
+				<a href="services/izgotovlenie-metallokonstrukij" class="services__item wow animate__fadeIn" data-wow-duration="1s">
 					<img class="services__image" src="img/index-icons/icon-7.png">
 					<div class="services__circle"></div>
 					<div class="services__text">
 						Изготовление <br> металлоконструкций
 					</div>
-				</div>
+				</a>
 
-				<div class="services__item wow animate__fadeIn" data-wow-duration="1s">
+				<a href="services/group/remont-fasadov" class="services__item wow animate__fadeIn" data-wow-duration="1s">
 					<img class="services__image" src="img/index-icons/icon-8.png">
 					<div class="services__circle"></div>
 					<div class="services__text">
 						Ремонт фасадов и <br> многоквартирных домов
 					</div>
-				</div>
+				</a>
 			</div>
 		</div>
 	</section>
