@@ -8,8 +8,8 @@
 			<section class="footer__center">
 				<ul class="footer__links">
 					<li class="footer__link"><a href="/services">Услуги</a></li>
-					<li class="footer__link"><a href="/">Проекты</a></li>
-					<li class="footer__link"><a href="/">О нас</a></li>
+					<li class="footer__link"><a href="/works">Работы</a></li>
+					<li class="footer__link"><a href="/about-us">О нас</a></li>
 					<li class="footer__link"><a href="/prices">Стоимость</a></li>
 					<li class="footer__link"><a href="/contacts">Контакты</a></li>
 				</ul>

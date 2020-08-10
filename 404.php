@@ -6,6 +6,7 @@
 	<?php require "templates/_header.php"; ?>
 
 	<link rel="stylesheet" type="text/css" href="/css/_header.css">
+	<!-- <link rel="stylesheet" type="text/css" href="/css/_header_all_pages.css"> -->
 	<link rel="stylesheet" type="text/css" href="/css/pages/404.css">
 </head>
 
