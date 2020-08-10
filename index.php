@@ -93,7 +93,7 @@ accurateTrackBounce:true
 				Ремонт парадных в Москве <br> и Санкт-Петербурге
 			</div>
 			<div class="header__button-container">
-				<button class="header__button main-btn">Заказать консультацию</button>
+				<a href="#callback"><button class="header__button main-btn">Заказать консультацию</button></a>
 			</div>
 		</section>
 
@@ -313,12 +313,29 @@ accurateTrackBounce:true
 			</div>
 		</div>
 	</section>
-
+	<div id="callback"></div>
 	<?php require "templates/_callback.php"; ?>
 	<?php require "templates/_footer.php"; ?>
+	<script>
+		const anchors = document.querySelectorAll('a[href*="#"]')
+
+for (let anchor of anchors) {
+  anchor.addEventListener('click', function (e) {
+    e.preventDefault()
+    
+    const blockID = anchor.getAttribute('href').substr(1)
+    
+    document.getElementById(blockID).scrollIntoView({
+      behavior: 'smooth',
+      block: 'start'
+    })
+  })
+}
+	</script>
 	<script src="js/wow.min.js"></script>
 	<script>
 		new WOW().init();
 	</script>
+	
 </body>
 </html>
