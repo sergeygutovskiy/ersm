@@ -4,6 +4,7 @@ body {
 
 .header {
 	height: auto;
+	margin-bottom: 0;
 }
 
 .footer {
@@ -20,7 +21,7 @@ body {
 	color: white;
 
 	position: absolute;
-	bottom: 30%;
+	bottom: 35%;
 	transform: translateY(50%);
 }
 
@@ -36,17 +37,29 @@ body {
 }
 
 .p404__button {
-	font-size: 18px;
-	letter-spacing: 0.02em;
-	padding: 16px 32px;
 	margin-top: 32px;
-	background-color: #008DD2;
-	text-align: center;
 	display: inline-block;
-	border-radius: 4px;
+
 }
 
 @media screen and (max-width: 768px)
+{
+	body {
+		height: auto;
+	}
+
+	.header {
+		min-height: 100vh;
+		min-height: calc(var(--vh, 1vh) * 100);
+	}
+
+	.p404__info {
+		bottom: 32px;
+		transform: none;
+	}
+}
+
+@media screen and (max-height: 768px) and (min-width: 768px)
 {
 	body {
 		height: auto;
@@ -78,8 +91,14 @@ body {
 		position: relative;
 		bottom: 0;
 
-		padding: 32px 0;
+		padding: 64px 0 32px 0;
 		margin-top: auto;
 	}
+}
 
+@media screen and (max-height: 660px) and (max-width: 425px)
+{
+	.header {
+		padding-bottom: 0;
+	}
 }

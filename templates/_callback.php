@@ -22,7 +22,7 @@
 				<textarea 
 					placeholder="Уточните все необходимые детали и пожелания по заявке"
 				></textarea>
-				<button>Заказать звонок</button>
+				<button class="main-btn">Заказать звонок</button>
 			</form>
 		</div>
 	</div>

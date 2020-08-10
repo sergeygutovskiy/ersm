@@ -93,7 +93,7 @@ accurateTrackBounce:true
 				Ремонт парадных в Москве <br> и Санкт-Петербурге
 			</div>
 			<div class="header__button-container">
-				<button class="header__button">Заказать консультацию</button>
+				<button class="header__button main-btn">Заказать консультацию</button>
 			</div>
 		</section>
 
@@ -125,53 +125,67 @@ accurateTrackBounce:true
 		document.documentElement.style.setProperty('--vh', `${vh}px`);
 	</script>
 
-	<!-- последние работы -->
-	<!-- 
-	<section class="last-works main-container main-limited">
-		<article>
+	 
+	<section class="main-container main-limited">
+		<div class="works">
 			
-		</article>
+			<article class="last-works-header">
+				<div class="last-works-header__content">
+					<div class="last-works-header__title">
+						Последние работы
+					</div>
+					<div class="last-works-header__text">
+						<span class="main-text-blue">ЭраСтройМонтаж</span> 
+						- ремонтно-строительная компания с большим опытом работы. Мы ремонтируем парадные с 2009 года, всегда соблюдаем сроки и отвечаем за качество!
+					</div>
+					<a href="/works" class="last-works-header__link">
+						Все работы <i class="far fa-long-arrow-alt-right"></i>
+					</a>					
+				</div>
+			</article>
 
-		<article class="last-works__item">
-			<div class="last-works__image-container">
-				<div class="last-works__image-background"></div>
-				<img class="last-works__image" src="/img/index-backgrounds/background-3.jpg">
-			</div>
-			<div class="last-works__text">
-				<span class="last-works__title">Ремонт парадной</span>
-				<span class="last-works__location">
-					г. Колпино, ул. Красная, д. 10 и 12
-				</span>
-			</div>
-		</article>
+			<article class="last-works__item">
+				<div class="last-works__image-container">
+					<img class="last-works__image" src="/img/index-backgrounds/background-3.jpg">
+					<div class="last-works__image-background"></div>
+				</div>
+				<div class="last-works__text">
+					<span class="last-works__title">Ремонт парадной</span>
+					<span class="last-works__location">
+						г. Колпино, ул. Красная, д. 10 и 12
+					</span>
+				</div>
+			</article>
 
-		<article class="last-works__item">
-			<div class="last-works__image-container">
-				<div class="last-works__image-background"></div>
-				<img class="last-works__image" src="/img/index-backgrounds/background-3.jpg">
-			</div>
-			<div class="last-works__text">
-				<span class="last-works__title">Ремонт парадной</span>
-				<span class="last-works__location">
-					г. Санкт-Петербург, ул. Морской Пехоты, д. 8, корп. 1
-				</span>
-			</div>
-		</article>
+			<article class="last-works__item">
+				<div class="last-works__image-container">
+					<img class="last-works__image" src="/img/index-backgrounds/background-3.jpg">
+					<div class="last-works__image-background"></div>
+				</div>
+				<div class="last-works__text">
+					<span class="last-works__title">Ремонт парадной</span>
+					<span class="last-works__location">
+						г. Санкт-Петербург, ул. Морской Пехоты, д. 8, корп. 1
+					</span>
+				</div>
+			</article>
 
-		<article class="last-works__item">
-			<div class="last-works__image-container">
-				<div class="last-works__image-background"></div>
-				<img class="last-works__image" src="/img/index-backgrounds/background-3.jpg">
-			</div>
-			<div class="last-works__text">
-				<span class="last-works__title">Ремонт парадной</span>
-				<span class="last-works__location">
-					г. Санкт-Петербург, ул. Ленсовета, д. 88
-				</span>
-			</div>
-		</article>
+			<article class="last-works__item">
+				<div class="last-works__image-container">
+					<img class="last-works__image" src="/img/index-backgrounds/background-3.jpg">
+					<div class="last-works__image-background"></div>
+				</div>
+				<div class="last-works__text">
+					<span class="last-works__title">Ремонт парадной</span>
+					<span class="last-works__location">
+						г. Санкт-Петербург, ул. Ленсовета, д. 88
+					</span>
+				</div>
+			</article>
+
+		</div>
 	</section>
- 	-->
+ 	
 
 	<!-- услуги -->
 	<section class="services-container">

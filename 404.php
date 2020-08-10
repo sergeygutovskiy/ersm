@@ -6,6 +6,7 @@
 	<?php require "templates/_header.php"; ?>
 
 	<link rel="stylesheet" type="text/css" href="/css/_header.css">
+	<!-- <link rel="stylesheet" type="text/css" href="/css/_header_all_pages.css"> -->
 	<link rel="stylesheet" type="text/css" href="/css/pages/404.css">
 </head>
 
@@ -60,7 +61,7 @@
 						<li>3. При вводе адреса была допущена ошибка</li>
 					</ul>
 				</div>
-				<a class="p404__button" href="/">Перейти на главную</a>
+				<a class="p404__button main-btn" href="/">Перейти на главную</a>
 			</section>
 		</header>
 

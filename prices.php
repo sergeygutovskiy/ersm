@@ -28,41 +28,41 @@
 		</div>
 		<section class="prices-links">
 			<ul class="prices-links__column">
-				<li class="prices-links__item"><a href="/">Поручни и металлические ограждения</a></li>
-				<li class="prices-links__item"><a href="/">Эмаль ПФ-115</a></li>
-				<li class="prices-links__item"><a href="/">Входные группы</a></li>
-				<li class="prices-links__item"><a href="/">Прочие работы</a></li>
-				<li class="prices-links__item"><a href="/">Потолок</a></li>
-				<li class="prices-links__item"><a href="/">Стены</a></li>
-				<li class="prices-links__item"><a href="/">Плитка пол на первом этаже</a></li>
-				<li class="prices-links__item"><a href="/">Укладка клинкерной плитки</a></li>
+				<li class="prices-links__item"><a href="#price-1">Поручни и металлические ограждения</a></li>
+				<li class="prices-links__item"><a href="#price-2">Эмаль ПФ-115</a></li>
+				<li class="prices-links__item"><a href="#price-3">Входные группы</a></li>
+				<li class="prices-links__item"><a href="#price-4">Прочие работы</a></li>
+				<li class="prices-links__item"><a href="#price-5">Потолок</a></li>
+				<li class="prices-links__item"><a href="#price-6">Стены</a></li>
+				<li class="prices-links__item"><a href="#price-7">Плитка пол на первом этаже</a></li>
+				<li class="prices-links__item"><a href="#price-8">Укладка клинкерной плитки</a></li>
 			</ul>
 
 			<ul class="prices-links__column">
-				<li class="prices-links__item"><a href="/">Укладка плитки на стены</a></li>
-				<li class="prices-links__item"><a href="/">Швы</a></li>
-				<li class="prices-links__item"><a href="/">Мягкая кровля</a></li>
-				<li class="prices-links__item"><a href="/">Фальцевая кровля</a></li>
-				<li class="prices-links__item"><a href="/">Наплавляемая кровля</a></li>
-				<li class="prices-links__item"><a href="/">Обогрев кровли и водостоков</a></li>
-				<li class="prices-links__item"><a href="/">Гидроизоляция кровли</a></li>
-				<li class="prices-links__item"><a href="/">Двери</a></li>
+				<li class="prices-links__item"><a href="#price-9">Укладка плитки на стены</a></li>
+				<li class="prices-links__item"><a href="#price-10">Швы</a></li>
+				<li class="prices-links__item"><a href="#price-11">Мягкая кровля</a></li>
+				<li class="prices-links__item"><a href="#price-12">Фальцевая кровля</a></li>
+				<li class="prices-links__item"><a href="#price-13">Наплавляемая кровля</a></li>
+				<li class="prices-links__item"><a href="#price-14">Обогрев кровли и водостоков</a></li>
+				<li class="prices-links__item"><a href="#price-15">Гидроизоляция кровли</a></li>
+				<li class="prices-links__item"><a href="#price-16">Двери</a></li>
 			</ul>
 
 			<ul class="prices-links__column">
-				<li class="prices-links__item"><a href="/">Фурнитура</a></li>
-				<li class="prices-links__item"><a href="/">Окна</a></li>
-				<li class="prices-links__item"><a href="/">Тротуарная плитка</a></li>
-				<li class="prices-links__item"><a href="/">Асфальтирование</a></li>
-				<li class="prices-links__item"><a href="/">Разметка</a></li>
-				<li class="prices-links__item"><a href="/">Тротуарная плитка</a></li>
-				<li class="prices-links__item"><a href="/">Газоны</a></li>
+				<li class="prices-links__item"><a href="#price-17">Фурнитура</a></li>
+				<li class="prices-links__item"><a href="#price-18">Окна</a></li>
+				<li class="prices-links__item"><a href="#price-19">Тротуарная плитка</a></li>
+				<li class="prices-links__item"><a href="#price-20">Асфальтирование</a></li>
+				<li class="prices-links__item"><a href="#price-21">Разметка</a></li>
+				<li class="prices-links__item"><a href="#price-22">Тротуарная плитка</a></li>
+				<li class="prices-links__item"><a href="#price-23">Газоны</a></li>
 			</ul>
 		</section>
 
 		<section class="prices">
 			
-			<div class="main-title">Поручни и металлические ограждения</div>
+			<div class="main-title" id="price-1">Поручни и металлические ограждения</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -90,10 +90,9 @@
 						<span>от 320 р. за м.п.</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-1.jpg">
 			</div>
 
-			<div class="main-title">Эмаль ПФ-115</div>
+			<div class="main-title" id="price-2">Эмаль ПФ-115</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -145,10 +144,9 @@
 						<span>от 430 р. за шт</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
-			<div class="main-title">Входные группы</div>
+			<div class="main-title" id="price-3">Входные группы</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -172,10 +170,9 @@
 						<span>от 650 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
-			<div class="main-title">Прочие работы</div>
+			<div class="main-title" id="price-4">Прочие работы</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -235,10 +232,9 @@
 						<span>от 3200 р.</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
-			<div class="main-title">Потолок</div>
+			<div class="main-title" id="price-5">Потолок</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -314,10 +310,9 @@
 						<span>от 610 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
-			<div class="main-title">Стены</div>
+			<div class="main-title" id="price-6">Стены</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -465,10 +460,9 @@
 						<span>от 260 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 			
-			<div class="main-title">Плитка пол на первом этаже</div>
+			<div class="main-title" id="price-7">Плитка пол на первом этаже</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -508,10 +502,9 @@
 						<span>от 60 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
-			<div class="main-title">Укладка клинкерной плитки</div>
+			<div class="main-title" id="price-8">Укладка клинкерной плитки</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -531,10 +524,9 @@
 						<span>от 550 р. за м.п.</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
-			<div class="main-title">Укладка плитки на стены</div>
+			<div class="main-title" id="price-9">Укладка плитки на стены</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -570,10 +562,9 @@
 						<span>от 1400 р. за шт</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
-			<div class="main-title">Швы</div>
+			<div class="main-title" id="price-10">Швы</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -605,10 +596,9 @@
 						<span>от 90 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
-			<div class="main-title">Мягкая кровля</div>
+			<div class="main-title" id="price-11">Мягкая кровля</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -632,10 +622,9 @@
 						<span>от 410 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
-			<div class="main-title">Фальцевая кровля</div>
+			<div class="main-title" id="price-12">Фальцевая кровля</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -651,10 +640,9 @@
 						<span>от 600 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
-			<div class="main-title">Наплавляемая кровля</div>
+			<div class="main-title" id="price-13">Наплавляемая кровля</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -670,10 +658,9 @@
 						<span>от 120 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
-			<div class="main-title">Обогрев кровли и водостоков</div>
+			<div class="main-title" id="price-14">Обогрев кровли и водостоков</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -689,10 +676,9 @@
 						<span>от 10000 р. за услугу</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
-			<div class="main-title">Гидроизоляция кровли</div>
+			<div class="main-title" id="price-15">Гидроизоляция кровли</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -704,10 +690,9 @@
 						<span>от 500 р. за м.п.</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
-			<div class="main-title">Двери</div>
+			<div class="main-title" id="price-16">Двери</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -735,10 +720,9 @@
 						<span>от 7000 р. за шт</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
-			<div class="main-title">Фурнитура</div>
+			<div class="main-title" id="price-17">Фурнитура</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -786,10 +770,9 @@
 						<span>от 3500 р. за шт</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
-			<div class="main-title">Окна</div>
+			<div class="main-title" id="price-18">Окна</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -829,10 +812,9 @@
 						<span>от 2400 р. за шт</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
-			<div class="main-title">Монтажные/демонтажные работы</div>
+			<div class="main-title" id="price-19">Монтажные/демонтажные работы</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -876,10 +858,9 @@
 						<span>от 3000 р. за шт</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
-			<div class="main-title">Асфальтирование</div>
+			<div class="main-title" id="price-20">Асфальтирование</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -931,10 +912,9 @@
 						<span>от 560 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>		
 
-			<div class="main-title">Разметка</div>
+			<div class="main-title" id="price-21">Разметка</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -946,10 +926,9 @@
 						<span>от 450 р. за место</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
-			<div class="main-title">Тротуарная плитка</div>
+			<div class="main-title" id="price-22">Тротуарная плитка</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -965,10 +944,9 @@
 						<span>от 45000 р. за шт</span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 
-			<div class="main-title">Газоны</div>
+			<div class="main-title" id="price-23">Газоны</div>
 			<div class="prices-list-container">
 				<ul class="prices-list">
 					<li class="prices-list__item">
@@ -988,10 +966,13 @@
 						<span>от 450 р. за м<sup>2</sup></span>
 					</li>
 				</ul>	
-				<img class="prices-list-image" src="/img/index-backgrounds/background-3.jpg">
 			</div>
 		</section>
 	</main>
+
+	<button onclick="scrollToPageTop()" id="scroll-top-button">
+		<i class="fal fa-arrow-circle-up"></i>	
+	</button>
 
 	<?php require "templates/_footer.php"; ?>
 
@@ -1013,6 +994,30 @@
 			}
 
 			isCategoriesActive = !isCategoriesActive;
+		}
+	</script>
+
+	<script>
+		var scrollTopButton = document.getElementById("scroll-top-button");
+		var scrollHeight    = 700; 
+
+		window.onscroll = function() { scrollFunction() };
+
+		function scrollFunction() {
+
+			// console.log(document.documentElement.scrollTop);
+
+			if (document.body.scrollTop > scrollHeight 
+				|| document.documentElement.scrollTop > scrollHeight) {
+				scrollTopButton.style.display = "block";
+			} else {
+				scrollTopButton.style.display = "none";
+			}
+		}
+
+		function scrollToPageTop() {
+			document.body.scrollTop = 0; // For Safari
+			document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 		}
 	</script>
 
