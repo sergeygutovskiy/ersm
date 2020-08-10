@@ -10,7 +10,7 @@
 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
 <!-- favicon -->
-<link rel="shortcut icon" type="image/png" href="favicon.ico">
+<link rel="shortcut icon" type="image/png" href="/favicon.ico">
 
 <!-- static styles -->
 <link rel="stylesheet" type="text/css" href="/css/_all.css">
