@@ -16,7 +16,7 @@
 	<!-- page header starts here -->
 	<?php require "../templates/_page_header-start.php"; ?>
 		
-		<img class="header-background-image" src="/img/page-headers/services/remont-fasadov-2.jpg">
+		<img class="header-background-image" src="\img\page-headers\services\trotuary-i-dorozhki-iz-asfalta-i-plitki.jpg">
 		<div class="header__title">
 			Тротуары и дорожки из асфальта и плитки
 		</div>
@@ -29,7 +29,7 @@
 	<main class="main-container main-limited">
 		
 		<section class="service-image-contanier">
-			<img class="service-image" src="/img/index-backgrounds/background-1.jpg">
+			<img class="service-image" src="\img\page-headers\services\man.(18).webp">
 		</section>
 
 		<section class="service-quote">

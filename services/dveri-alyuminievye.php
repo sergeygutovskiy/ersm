@@ -16,7 +16,7 @@
 	<!-- page header starts here -->
 	<?php require "../templates/_page_header-start.php"; ?>
 		
-		<img class="header-background-image" src="/img/page-headers/services/metalloplastikovye-okna.jpg">
+		<img class="header-background-image" src="\img\page-headers\services\dveri-alyuminievye.jpg">
 		<div class="header__title">
 			Двери алюминиевые
 		</div>
@@ -29,7 +29,7 @@
 	<main class="main-container main-limited">
 		
 		<section class="service-image-contanier">
-			<img class="service-image" src="/img/index-backgrounds/background-1.jpg">
+			<img class="service-image" src="\img\page-headers\services\dveri-alyuminievye-2.jpg">
 		</section>
 
 		<section class="service-quote">

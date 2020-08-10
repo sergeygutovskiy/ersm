@@ -16,7 +16,7 @@
 	<!-- page header starts here -->
 	<?php require "../templates/_page_header-start.php"; ?>
 		
-		<img class="header-background-image" src="/img/page-headers/services/remont-i-mojka-musoroprovodov.jpg">
+		<img class="header-background-image" src="img\page-headers\services\uteplenie-i-gidroizolyaciya-podvalov-i-cherdakov.jpg">
 		<div class="header__title">
 			Утепление и гидроизоляция подвалов и чердаков
 		</div>
