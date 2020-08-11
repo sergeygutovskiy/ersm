@@ -9,21 +9,34 @@
 	<link rel="stylesheet" type="text/css" href="/css/_header.css">
 
 	<!— Yandex.Metrika counter —>
-<script type="text/javascript" >
-(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+	<script type="text/javascript" >
+		(function(m, e, t, r, i, k, a) { 
+			m[i] = m[i] || function() { (m[i].a = m[i].a || []).push(arguments)};
+			m[i].l = 1 * new Date();
+			k = e.createElement(t), 
+			a = e.getElementsByTagName(t)[0], 
+			k.async = 1, k.src = r, 
+			a.parentNode.insertBefore(k,a)
+		})
+		
+		(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
 
-ym(61647748, "init", {
-clickmap:true,
-trackLinks:true,
-accurateTrackBounce:true
-});
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/61647748" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!— /Yandex.Metrika counter —>
-<meta name="yandex-verification" content="b7cd54a071f4d1fb" />
-<meta name="google-site-verification" content="jSZiZ77_38ha6yzXdEcBMO9FKqU7PgUB-h-vuhJoA7Q" />
+		ym(61647748, "init", {
+			clickmap : true,
+			trackLinks : true,
+			accurateTrackBounce : true
+		});
+	</script>
+	
+	<noscript>
+		<div>
+			<img src="https://mc.yandex.ru/watch/61647748" style="position:absolute; left:-9999px;" alt="">
+		</div>
+	</noscript>
+	
+	<!— /Yandex.Metrika counter —>
+	<meta name="yandex-verification" content="b7cd54a071f4d1fb" />
+	<meta name="google-site-verification" content="jSZiZ77_38ha6yzXdEcBMO9FKqU7PgUB-h-vuhJoA7Q" />
 
 
 </head>
@@ -125,8 +138,8 @@ accurateTrackBounce:true
 		document.documentElement.style.setProperty('--vh', `${vh}px`);
 	</script>
 
-	 
-	<section class="main-container main-limited">
+	<!-- Последние работы -->
+	<section class="works-container main-container main-limited">
 		<div class="works">
 			
 			<article class="last-works-header">
@@ -186,7 +199,6 @@ accurateTrackBounce:true
 		</div>
 	</section>
  	
-
 	<!-- услуги -->
 	<section class="services-container">
 		<div class="main-container main-limited">
@@ -314,28 +326,30 @@ accurateTrackBounce:true
 		</div>
 	</section>
 	<div id="callback"></div>
+	
 	<?php require "templates/_callback.php"; ?>
 	<?php require "templates/_footer.php"; ?>
+	
 	<script>
 		const anchors = document.querySelectorAll('a[href*="#"]')
 
-for (let anchor of anchors) {
-  anchor.addEventListener('click', function (e) {
-    e.preventDefault()
-    
-    const blockID = anchor.getAttribute('href').substr(1)
-    
-    document.getElementById(blockID).scrollIntoView({
-      behavior: 'smooth',
-      block: 'start'
-    })
-  })
-}
+		for (let anchor of anchors) 
+		{
+			anchor.addEventListener('click', function (e) {
+				e.preventDefault()
+
+				const blockID = anchor.getAttribute('href').substr(1)
+
+				document.getElementById(blockID).scrollIntoView({
+					behavior: 'smooth',
+					block: 'start'
+				});
+			});
+		}
 	</script>
+	
 	<script src="js/wow.min.js"></script>
-	<script>
-		new WOW().init();
-	</script>
+	<script> new WOW().init(); </script>
 	
 </body>
 </html>
