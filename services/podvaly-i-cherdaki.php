@@ -16,7 +16,7 @@
 	<!-- page header starts here -->
 	<?php require "../templates/_page_header-start.php"; ?>
 		
-		<img class="header-background-image" src="img\page-headers\services\uteplenie-i-gidroizolyaciya-podvalov-i-cherdakov.jpg">
+		<img class="header-background-image" src="\img\page-headers\services\f28e3d629d6fc10a73bd30f16a.jpeg">
 		<div class="header__title">
 			Утепление и гидроизоляция подвалов и чердаков
 		</div>
@@ -29,7 +29,7 @@
 	<main class="main-container main-limited">
 		
 		<section class="service-image-contanier">
-			<img class="service-image" src="/img/index-backgrounds/background-1.jpg">
+			<img class="service-image" src="\img\page-headers\services\uteplenie-i-gidroizolyaciya-podvalov-i-cherdakov.jpg">
 		</section>
 
 		<section class="service-quote">

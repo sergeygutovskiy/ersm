@@ -16,7 +16,7 @@
 	<!-- page header starts here -->
 	<?php require "../templates/_page_header-start.php"; ?>
 		
-		<img class="header-background-image" src="/img/page-headers/services/remont-i-mojka-musoroprovodov.jpg">
+		<img class="header-background-image" src="\img\page-headers\services\default_3.jpg">
 		<div class="header__title">
 			Монтаж систем видеонаблюдения
 		</div>
@@ -29,7 +29,7 @@
 	<main class="main-container main-limited">
 		
 		<section class="service-image-contanier">
-			<img class="service-image" src="/img/index-backgrounds/background-1.jpg">
+			<img class="service-image" src="\img\page-headers\services\1577078861726.jpg">
 		</section>
 
 		<section class="service-quote">
