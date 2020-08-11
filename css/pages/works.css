@@ -82,4 +82,8 @@
 		grid-template-columns: 1fr;
 		grid-gap: 16px;
 	}	
+
+	.last-works__image-container::after { 
+		padding-bottom: 75%;
+	}
 }
