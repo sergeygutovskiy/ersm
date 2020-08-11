@@ -132,7 +132,7 @@
 		overflow-y: visible;
 		overflow-x: scroll;
 	}
-
+	
 	.works {
 		width: 1300px;
 		padding: 0 83px;
@@ -147,7 +147,7 @@
 		margin-right: 16px;
 		width: auto;
 	}
-
+	
 	.works {
 		grid-template-columns: 1fr;
 		margin-bottom: 32px;
