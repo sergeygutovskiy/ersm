@@ -26,68 +26,57 @@
 			
 			<article class="last-works__item">
 				<div class="last-works__image-container">
-					<img class="last-works__image" src="/img/index-backgrounds/background-3.jpg">
+					<img class="last-works__image" src="\img\work2.jpeg">
 					<div class="last-works__image-background"></div>
 				</div>
 				<div class="last-works__text">
-					<span class="last-works__title">Ремонт парадной</span>
+					<span class="last-works__title">Ремонт козырька</span>
 					<span class="last-works__location">
-						г. Санкт-Петербург, ул. Морской Пехоты, д. 8, корп. 1
+					Ул. Оборонная д.2 - Колпино
 					</span>
 				</div>
 			</article>
 
 			<article class="last-works__item">
 				<div class="last-works__image-container">
-					<img class="last-works__image" src="/img/index-backgrounds/background-3.jpg">
+					<img class="last-works__image" src="\img\work1.jpeg">
 					<div class="last-works__image-background"></div>
 				</div>
 				<div class="last-works__text">
-					<span class="last-works__title">Ремонт парадной</span>
+					<span class="last-works__title">Ремонт крыши</span>
 					<span class="last-works__location">
-						г. Санкт-Петербург, ул. Морской Пехоты, д. 8, корп. 1
+					ул. Морской Пехоты д.8 корп.1
 					</span>
 				</div>
 			</article>
 
 			<article class="last-works__item">
 				<div class="last-works__image-container">
-					<img class="last-works__image" src="/img/index-backgrounds/background-3.jpg">
+					<img class="last-works__image" src="\img\work3.jpeg">
 					<div class="last-works__image-background"></div>
 				</div>
 				<div class="last-works__text">
 					<span class="last-works__title">Ремонт парадной</span>
 					<span class="last-works__location">
-						г. Санкт-Петербург, ул. Морской Пехоты, д. 8, корп. 1
+						г. Санкт-Петербург, ул. Ленсовета, д. 88
 					</span>
 				</div>
 			</article>
 
 			<article class="last-works__item">
 				<div class="last-works__image-container">
-					<img class="last-works__image" src="/img/index-backgrounds/background-3.jpg">
+					<img class="last-works__image" src="\img\work4.jpeg">
 					<div class="last-works__image-background"></div>
 				</div>
 				<div class="last-works__text">
 					<span class="last-works__title">Ремонт парадной</span>
 					<span class="last-works__location">
-						г. Санкт-Петербург, ул. Морской Пехоты, д. 8, корп. 1
+						Г. Колпино, ул. Красная д.10 и д.12
 					</span>
 				</div>
 			</article>
 
-			<article class="last-works__item">
-				<div class="last-works__image-container">
-					<img class="last-works__image" src="/img/index-backgrounds/background-3.jpg">
-					<div class="last-works__image-background"></div>
-				</div>
-				<div class="last-works__text">
-					<span class="last-works__title">Ремонт парадной</span>
-					<span class="last-works__location">
-						г. Санкт-Петербург, ул. Морской Пехоты, д. 8, корп. 1
-					</span>
-				</div>
-			</article>
+			
 
 		</section>
 	</main>
