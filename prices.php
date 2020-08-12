@@ -52,7 +52,7 @@
 			<ul class="prices-links__column">
 				<li class="prices-links__item"><a href="#price-17">Фурнитура</a></li>
 				<li class="prices-links__item"><a href="#price-18">Окна</a></li>
-				<li class="prices-links__item"><a href="#price-19">Тротуарная плитка</a></li>
+				<li class="prices-links__item"><a href="#price-19">Монтажные/демонтажные работы</a></li>
 				<li class="prices-links__item"><a href="#price-20">Асфальтирование</a></li>
 				<li class="prices-links__item"><a href="#price-21">Разметка</a></li>
 				<li class="prices-links__item"><a href="#price-22">Тротуарная плитка</a></li>

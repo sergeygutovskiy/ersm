@@ -1,5 +1,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<!-- description -->
+<meta name="description" content="Качественный ремонт парадных в Санкт-Петербурге. Косметический ремонт парадных, Аварийные выезды, Установка окон и многое другое по очень привлекательным ценам"> 
+
 <!-- font awesome -->
 <link href="/fonts/font-awesome/css/all.css" rel="stylesheet">
 

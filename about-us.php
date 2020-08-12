@@ -67,7 +67,7 @@
 				Мы знаем, каким образом нужно работать с трещинами на стенах и потолках, как нейтрализовать грибок, как улучшить адгезию любого существующего основания, как правильно рассчитать нагрузку, какие материалы подобрать в зависимости от влажности, температуры и назначения помещений, чтобы они еще и соответствовали требованиям пожарной инспекции.
 			</p>
 
-			<a class="link main-text-blue" href="/services">
+			<a class="link main-text-blue" href="/prices">
 				Перейти к стоимости
 				<i class="far fa-long-arrow-alt-right"></i>
 			</a>
@@ -119,7 +119,7 @@
 				</div>
 			</div>
 
-			<a class="link main-text-blue" href="/services">
+			<a class="link main-text-blue" href="/works">
 				Посмотреть наши работы 
 				<i class="far fa-long-arrow-alt-right"></i>
 			</a>
