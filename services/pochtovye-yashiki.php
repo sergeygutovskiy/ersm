@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Замена и установка почтовых ящиков — ЕРСМ</title>
+	<title>ЭраСтройМонтаж</title>
 
 	<?php require "../templates/_header.php"; ?>
 

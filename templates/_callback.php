@@ -16,15 +16,33 @@
 		</div>
 
 		<div class="right-form">
-			<form>
-				<input placeholder="Имя" class="form-input">
-				<input placeholder="Телефон">
+			<form id="form">
+				<input name="name" placeholder="Имя" class="form-input">
+				<input name="phone" placeholder="Телефон">
 				<textarea 
+					name="text"
 					placeholder="Уточните все необходимые детали и пожелания по заявке"
 				></textarea>
-				<button class="main-btn">Заказать звонок</button>
+				<button class="main-btn" type="submit">Заказать звонок</button>
 			</form>
 		</div>
 	</div>
 
 </section>
+
+<script>
+	$(document).ready(function() {
+		$("#form").submit(function() {
+			$.ajax({
+				type: "POST",
+				url: "/php/mail",
+				data: $(this).serialize()
+			}).done(function() {
+				$(this).find("input").val("");
+				alert("Спасибо за заявку! Скоро мы с вами свяжемся.");
+				$("#form").trigger("reset");
+			});
+			return false;
+		});
+	});
+</script>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Контакты — ЕРСМ</title>
+	<title>ЭраСтройМонтаж</title>
 
 	<?php require "templates/_header.php"; ?>
 

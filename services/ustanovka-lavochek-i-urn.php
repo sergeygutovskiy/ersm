@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Установка лавочек и урн — ЕРСМ</title>
+	<title>ЭраСтройМонтаж</title>
 
 	<?php require "../templates/_header.php"; ?>
 

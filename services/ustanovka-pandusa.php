@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Установка пандуса — ЕРСМ</title>
+	<title>ЭраСтройМонтаж</title>
 
 	<?php require "../templates/_header.php"; ?>
 

@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Цены — ЕРСМ</title>
+	<title>ЭраСтройМонтаж</title>
 
 	<?php require "templates/_header.php"; ?>
 

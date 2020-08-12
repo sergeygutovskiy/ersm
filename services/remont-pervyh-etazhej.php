@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Износостойкий ремонт первых этажей — ЕРСМ</title>
+	<title>ЭраСтройМонтаж</title>
 
 	<?php require "../templates/_header.php"; ?>
 
