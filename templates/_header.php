@@ -4,6 +4,9 @@
 <!-- description -->
 <meta name="description" content="Качественный ремонт парадных в Санкт-Петербурге. Косметический ремонт парадных, Аварийные выезды, Установка окон и многое другое по очень привлекательным ценам"> 
 
+<!-- yandex webmaster -->
+<meta name="yandex-verification" content="b7cd54a071f4d1fb" />
+
 <!-- font awesome -->
 <link href="/fonts/font-awesome/css/all.css" rel="stylesheet">
 
