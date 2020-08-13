@@ -19,8 +19,6 @@
 			a.parentNode.insertBefore(k,a)
 		})
 			
-		var a = 1;
-
 		(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
 
 		ym(61647748, "init", {
