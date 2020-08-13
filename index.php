@@ -3,6 +3,8 @@
 <head>
 	<title>ЭраСтройМонтаж</title>
 
+
+
 	<?php require "templates/_header.php"; ?>
 	
 	<link rel="stylesheet" type="text/css" href="/css/pages/index.css">
