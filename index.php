@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>ЭраСтройМонтаж</title>
+	<title>ЭраСтройМонтаж Popi</title>
 
 	<?php require "templates/_header.php"; ?>
 	
