@@ -17,8 +17,8 @@
 
 		<div class="right-form">
 			<form id="form">
-				<input name="name" placeholder="Имя" class="form-input">
-				<input name="phone" placeholder="Телефон">
+				<input name="name" placeholder="Имя" class="form-input" require>
+				<input name="phone" placeholder="Телефон" require>
 				<textarea 
 					name="text"
 					placeholder="Уточните все необходимые детали и пожелания по заявке"
