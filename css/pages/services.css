@@ -1,4 +1,4 @@
-.main-services{
+.main-services {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-template-rows: 1fr 1fr;
@@ -6,22 +6,22 @@
 	line-height: 24px;
 	margin-top: 40px;
 }
-main h3{
+main h3 {
 	font-weight: 300;
-font-size: 20px;
-line-height: 28px;
-letter-spacing: 0.06em;
-margin: 0;
-color: #008DD2;
+	font-size: 20px;
+	line-height: 28px;
+	letter-spacing: 0.06em;
+	margin: 0;
+	color: #008DD2;
 
 }
-main ul{
+main ul {
 	padding-left: 18px;
 	padding-top:18px;
 	list-style: none;
-	
 }
-main li::before{
+
+main li::before {
 	content: "";
 	width: 10px;
 	height: 10px;
@@ -30,29 +30,42 @@ main li::before{
 	position: absolute;
 	left:-20px;
 	top: 25px;
-
 }
-main li{
+
+main li {
 	padding-top: 20px;
 	padding-left: 10px;
 	position: relative;
 }
-.block-services{
+
+.block-services {
 	height: 100%;
 }
-main .block-services a{
-	text-decoration: none;
+
+main .block-services a {
 	color: #292929;
 }
 
-@media screen and (max-width:980px){
-	.main-services{
+.block-services > a:hover {	
+	text-decoration: underline;
+	text-decoration-color: #008DD2;
+}
+
+.main-services li > a:hover {
+	text-decoration: underline;
+}
+
+@media screen and (max-width: 980px)
+{
+	.main-services {
 		grid-template-columns: 1fr 1fr ;
-	grid-template-rows: 1fr 1fr 1fr;
+		grid-template-rows: 1fr 1fr 1fr;
 	}
 }
-@media screen and (max-width:730px){
-	.main-services{
+
+@media screen and (max-width: 730px)
+{
+	.main-services {
 		display: flex;
 		flex-direction: column;
 	}
