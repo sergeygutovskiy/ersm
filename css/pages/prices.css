@@ -23,6 +23,11 @@ body {
 	color: inherit;
 }
 
+.prices-links__item a:hover {
+	text-decoration: underline;
+	color: black;
+}
+
 .prices-links-title {
 	display: none;
 	margin-top: 0;

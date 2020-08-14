@@ -53,6 +53,7 @@ main .block-services a {
 
 .main-services li > a:hover {
 	text-decoration: underline;
+	color: black;
 }
 
 @media screen and (max-width: 980px)
