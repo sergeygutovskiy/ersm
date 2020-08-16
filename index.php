@@ -16,7 +16,7 @@
 		<div class="main-popup__image"></div>
 		<div class="main-popup__text">
 			Выезд специалистов <br>
-			на <span class="main-text-blue"> аварийные работы </span>
+			на <a class="main-text-blue" href="/services/avarijnye-raboty"> аварийные работы </a>
 		</div>
 		<button class="main-popup__close" onclick="closePopup()">
 			<i class="far fa-times-circle"></i>
