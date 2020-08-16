@@ -29,7 +29,33 @@
 
 	<main class="main-container main-limited">
 		
-		<section>			
+		<section class="about_us__stats">
+			<div class="about_us__stat">
+				<div class="about_us__stat-circle"></div>
+				<span class="about_us__stat-value">2</span>
+				<span class="about_us__stat-name">офиса в России</span>
+			</div>
+
+			<div class="about_us__stat">
+				<div class="about_us__stat-circle"></div>
+				<span class="about_us__stat-value">24</span>
+				<span class="about_us__stat-name">специалиста</span>
+			</div>
+
+			<div class="about_us__stat">
+				<div class="about_us__stat-circle"></div>
+				<span class="about_us__stat-value">156</span>
+				<span class="about_us__stat-name">выполненных <br> проектов</span>
+			</div>
+
+			<div class="about_us__stat">
+				<div class="about_us__stat-circle"></div>
+				<span class="about_us__stat-value">11</span>
+				<span class="about_us__stat-name">лет работы</span>
+			</div>
+		</section>
+
+		<section>
 			<div class="main-title">Почему мы?</div>
 			<p>
 				Часто мастера приходится выбирать вслепую, так как ни о его опыте работы ни о качестве исполнения нет никакой информации. А отзывы? Отрицательные отзывы пишут чаще положительных, в связи с чем выбор мастеров сужается, но сомнения остаются.
@@ -54,7 +80,7 @@
 			</a>
 		</section>
 
-		<section>			
+		<section>
 			<div class="main-title">Наши преимущества</div>
 			<p>
 				Мы знаем, что никому не нравится находиться внутри стройки долгое время. Поэтому уже при составлении технического задания мы дробим весь объем работ на этапы и участки. Это позволяет жителям и гостям практически не замечать процесс производства работ во время ремонта внутри парадной.

@@ -7,40 +7,41 @@
 	
 	<link rel="stylesheet" type="text/css" href="/css/pages/index.css">
 	<link rel="stylesheet" type="text/css" href="/css/_header.css">
-
-	<!— Yandex.Metrika counter —>
-	<script type="text/javascript" >
-		(function(m, e, t, r, i, k, a) { 
-			m[i] = m[i] || function() { (m[i].a = m[i].a || []).push(arguments)};
-			m[i].l = 1 * new Date();
-			k = e.createElement(t), 
-			a = e.getElementsByTagName(t)[0], 
-			k.async = 1, k.src = r, 
-			a.parentNode.insertBefore(k,a)
-		})
-			
-		(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-		ym(61647748, "init", {
-			clickmap : true,
-			trackLinks : true,
-			accurateTrackBounce : true
-		});
-	</script>
-	
-	<noscript>
-		<div>
-			<img src="https://mc.yandex.ru/watch/61647748" style="position:absolute; left:-9999px;" alt="">
-		</div>
-	</noscript>
-	
-	<!— /Yandex.Metrika counter —>
-	<meta name="yandex-verification" content="b7cd54a071f4d1fb" />
-	<meta name="google-site-verification" content="jSZiZ77_38ha6yzXdEcBMO9FKqU7PgUB-h-vuhJoA7Q" />
-
-
 </head>
 <body>
+
+	<!-- popup -->
+
+	<section class="main-popup">
+		<div class="main-popup__image"></div>
+		<div class="main-popup__text">
+			Выезд специалистов <br>
+			на <span class="main-text-blue"> аварийные работы </span>
+		</div>
+		<button class="main-popup__close" onclick="closePopup()">
+			<i class="far fa-times-circle"></i>
+		</button>
+	</section>
+
+	<script>
+		
+		var popup = document.getElementsByClassName("main-popup")[0];
+
+		function closePopup() {
+			popup.style["transform"] = "translateX(calc(100% + 16px))";
+		}
+
+		function openPopup() {
+			popup.style["transform"] = "translateX(0)";
+		}
+
+		setTimeout(() => {
+
+			openPopup();
+
+		}, 5000);
+
+	</script>
 
 	<!-- header with navigation template -->
 	<header class="header">
