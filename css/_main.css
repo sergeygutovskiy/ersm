@@ -89,14 +89,14 @@
 .main-popup__image {
 	width: 40px;
 	height: 40px;
-
+	float: left;
 	background-image: url(../img/popup.png);
 	background-size: contain;
 }
 
 .main-popup__text {
 	line-height: 24px;
-
+	float: right;
 	margin-left: 20px;
 	margin-right: 24px;
 }
