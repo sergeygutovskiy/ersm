@@ -132,9 +132,12 @@ main p {
 }
 
 .about-us__review-name {
-	font-size: 32px;
-	display: block;
-	letter-spacing: 0.06em;
+	font-weight: 300;
+font-size: 18px;
+line-height: 14px;
+letter-spacing: 0.06em;
+display: block;
+color: #008DD2;
 }
 
 .about-us__review-date {
