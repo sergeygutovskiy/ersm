@@ -128,12 +128,10 @@ main p {
 
 .about-us__review-name {
 	display: block;
-	margin-top: 16px;
 
-	font-size: 12px;
+	margin-top: 16px;
 	letter-spacing: 0.06em;
 	color: #008DD2;
-
 }
 
 .about-us__review-text {

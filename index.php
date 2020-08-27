@@ -12,17 +12,20 @@
 
 	<!-- popup -->
 
-	<section class="main-popup">
-		<div class="main-popup__image"></div>
-		<div class="main-popup__text">
-			Выезд специалистов <br>
-			на <a class="main-text-blue" href="/services/avarijnye-raboty"> аварийные работы </a>
-		</div>
-		<button class="main-popup__close" onclick="closePopup()">
-			<i class="far fa-times-circle"></i>
-		</button>
-	</section>
-
+	
+		<section class="main-popup">
+		<a class="main-text-blue" href="/services/avarijnye-raboty">
+			<div class="main-popup__image"></div>
+			<div class="main-popup__text">
+				Выезд специалистов <br>
+				на  аварийные работы 
+			</div>
+		</a>
+			<button class="main-popup__close" onclick="closePopup()">
+				<i class="far fa-times-circle"></i>
+			</button>
+		</section>
+	
 	<script>
 		
 		var popup = document.getElementsByClassName("main-popup")[0];
