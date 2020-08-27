@@ -1,5 +1,6 @@
 main p {
-	margin: 0;
+	line-height: 24px;
+	margin: 16px 0;
 }
 
 .link {
@@ -135,6 +136,7 @@ main p {
 }
 
 .about-us__review-text {
+	margin: 0;
 	max-width: 540px;
 }
 
