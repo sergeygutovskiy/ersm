@@ -1,8 +1,5 @@
 main p {
-	line-height: 24px;
-	margin: 16px 0;
-	display: block;
-	max-width: 950px;
+	margin: 0;
 }
 
 .link {
@@ -113,7 +110,7 @@ main p {
 }
 
 .about-us__reviews {
-	height: 400px;
+	height: 240px;
 	margin-bottom: 16px;
 }
 
@@ -125,26 +122,21 @@ main p {
 }
 
 .about-us__review {
-	padding-top: 84px;
-	padding-left: 48px;
+	padding: 64px;
 	font-weight: 400;
-	/*color: black;*/
 }
 
 .about-us__review-name {
-	font-size: 32px;
 	display: block;
-	letter-spacing: 0.06em;
-}
+	margin-top: 16px;
 
-.about-us__review-date {
-	font-size: 22px; 
-	display: block;
+	font-size: 12px;
 	letter-spacing: 0.06em;
+	color: #008DD2;
+
 }
 
 .about-us__review-text {
-	font-size: 18px;
 	max-width: 540px;
 }
 
@@ -161,24 +153,10 @@ main p {
 	background-color: #FF993F;
 }
 
-@media screen and (max-width: 860px)
-{
-	.about-us__review-text {
-		max-width: 100%;
-		padding-right: 48px;
-	}	
-
-	.swiper-pagination-bullets {
-		padding-right: 0;
-	}
-}
-
-@media screen and (max-width: 425px)
+@media screen and (max-width: 768px)
 {
 	.about-us__review {
-		padding-top: 48px;
-		padding-left: 24px;
-		padding-right: 24px
+		padding: 24px;
 	}
 
 	.about-us__review-text {
@@ -186,7 +164,11 @@ main p {
 	}
 
 	.about-us__reviews {
-		height: 480px;
+		height: 300px;
 		margin-bottom: 16px;
+	}
+
+	.swiper-pagination-bullets {
+		padding: 0;
 	}
 }

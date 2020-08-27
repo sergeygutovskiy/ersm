@@ -113,12 +113,20 @@
 }
 
 .last-works-header__link i {
+	/*
 	margin-left: 12px;
 	font-size: 28px;
 	font-weight: 400;
 
 	position: relative;
 	top: 6px;
+	*/
+
+	margin-left: 8px;
+	font-size: 20px;
+	font-weight: 400;
+	position: relative;
+	top: 3px;
 }
 
 @media screen and (max-width: 1300px)
@@ -242,9 +250,18 @@
 	padding-left: 16px;
 	padding-right: 16px;
 	margin-bottom: 16px;
+
+	transition: none;
 }
+
 .services__item:hover ~ .services__text {
 	color: #FF993F;
+}
+
+.services__item:hover > .services__image {
+	filter: brightness(0)
+		invert(80%) sepia(20%) saturate(5496%) 
+		hue-rotate(328deg) brightness(100%) contrast(105%);
 }
 @media screen and (max-width: 1240px)
 {
