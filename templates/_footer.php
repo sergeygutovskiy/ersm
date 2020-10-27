@@ -14,7 +14,7 @@
 					<li class="footer__link"><a href="/contacts">Контакты</a></li>
 				</ul>
 				<section class="footer__kirill">
-					<a href="https://terexov.agency">terexov.agency</a>
+					<a href="https://terexov.agency">terexov</a>
 					<div>разработка сайта</div>
 				</section>
 			</section>
