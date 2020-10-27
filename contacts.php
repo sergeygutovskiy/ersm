@@ -63,6 +63,8 @@
 	</main>
 
 	<!-- footer -->
+	
+
 	<?php require "templates/_footer.php"; ?>
 </body>
 </html>
